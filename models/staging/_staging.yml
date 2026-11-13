@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: stg_products
+    description: Cleaned product master.
+    columns:
+      - name: product_code
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_batches
+    description: Cleaned, one-row-per-batch staging model.
+    columns:
+      - name: batch_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_specifications
+    description: Cleaned specification limits, typed as doubles with blanks as null.
+    columns:
+      - name: spec_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_qc_results
+    description: Cleaned, one-row-per-test-result staging model.
+    columns:
+      - name: result_id
+        data_tests:
+          - unique
+          - not_null
+      - name: status
+        data_tests:
+          - accepted_values:
+              values: ['Pass', 'OOS']
+
+  - name: stg_deviations
+    description: Cleaned deviation records with a computed days-to-close.
+    columns:
+      - name: deviation_id
+        data_tests:
+          - unique
+          - not_null
+      - name: days_to_close
+        data_tests:
+          - not_null
