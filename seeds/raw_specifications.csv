@@ -1,0 +1,26 @@
+spec_id,product_code,test_name,lower_spec_limit,upper_spec_limit,unit
+1,ALZ-100,Assay (% of label claim),95.0,105.0,%
+2,BRN-250,Assay (% of label claim),95.0,105.0,%
+3,CTX-50,Assay (% of label claim),95.0,105.0,%
+4,DLV-10,Assay (% of label claim),95.0,105.0,%
+5,ERN-500,Assay (% of label claim),95.0,105.0,%
+6,ALZ-100,Dissolution Q30 (%),80.0,,%
+7,BRN-250,Dissolution Q30 (%),80.0,,%
+8,CTX-50,Dissolution Q30 (%),80.0,,%
+9,DLV-10,Dissolution Q30 (%),80.0,,%
+10,ERN-500,Dissolution Q30 (%),80.0,,%
+11,ALZ-100,Related Substances - Total Impurities (%),,0.5,%
+12,BRN-250,Related Substances - Total Impurities (%),,0.5,%
+13,CTX-50,Related Substances - Total Impurities (%),,0.5,%
+14,DLV-10,Related Substances - Total Impurities (%),,0.5,%
+15,ERN-500,Related Substances - Total Impurities (%),,0.5,%
+16,ALZ-100,Water Content (%),,4.0,%
+17,BRN-250,Water Content (%),,4.0,%
+18,CTX-50,Water Content (%),,4.0,%
+19,DLV-10,Water Content (%),,4.0,%
+20,ERN-500,Water Content (%),,4.0,%
+21,ALZ-100,Content Uniformity (AV),,15.0,AV
+22,BRN-250,Content Uniformity (AV),,15.0,AV
+23,CTX-50,Content Uniformity (AV),,15.0,AV
+24,DLV-10,Content Uniformity (AV),,15.0,AV
+25,ERN-500,Content Uniformity (AV),,15.0,AV

@@ -1,0 +1,1001 @@
+result_id,batch_id,test_name,result_value,unit,test_date,analyst,shift,instrument_id,status
+1,ALZ-100-2411-0001,Assay (% of label claim),100.858,%,2024-11-30,T. Novak,Night,HPLC-04,Pass
+2,ALZ-100-2411-0001,Dissolution Q30 (%),85.335,%,2024-11-30,J. Alvarez,Night,Dissolution-Bath-3,Pass
+3,ALZ-100-2411-0001,Related Substances - Total Impurities (%),0.236,%,2024-11-30,M. Chen,Night,HPLC-07,Pass
+4,ALZ-100-2411-0001,Water Content (%),0.738,%,2024-11-30,K. Fischer,Swing,UV-02,Pass
+5,ALZ-100-2411-0001,Content Uniformity (AV),11.494,AV,2024-11-30,R. Okafor,Day,KF-Titrator-01,Pass
+6,ALZ-100-2510-0002,Assay (% of label claim),101.783,%,2025-10-30,M. Chen,Swing,HPLC-11,Pass
+7,ALZ-100-2510-0002,Dissolution Q30 (%),89.945,%,2025-10-30,M. Chen,Day,UV-02,Pass
+8,ALZ-100-2510-0002,Related Substances - Total Impurities (%),-0.01,%,2025-10-30,R. Okafor,Night,HPLC-04,Pass
+9,ALZ-100-2510-0002,Water Content (%),1.739,%,2025-10-30,T. Novak,Swing,UV-02,Pass
+10,ALZ-100-2510-0002,Content Uniformity (AV),1.149,AV,2025-10-30,D. Ibrahim,Day,KF-Titrator-01,Pass
+11,ALZ-100-2507-0003,Assay (% of label claim),101.699,%,2025-07-04,R. Okafor,Swing,HPLC-04,Pass
+12,ALZ-100-2507-0003,Dissolution Q30 (%),94.442,%,2025-07-04,S. Patel,Swing,UV-02,Pass
+13,ALZ-100-2507-0003,Related Substances - Total Impurities (%),0.229,%,2025-07-04,T. Novak,Day,HPLC-07,Pass
+14,ALZ-100-2507-0003,Water Content (%),1.839,%,2025-07-04,R. Okafor,Swing,HPLC-07,Pass
+15,ALZ-100-2507-0003,Content Uniformity (AV),1.89,AV,2025-07-04,J. Alvarez,Night,HPLC-11,Pass
+16,ALZ-100-2508-0004,Assay (% of label claim),98.957,%,2025-08-21,S. Patel,Swing,HPLC-04,Pass
+17,ALZ-100-2508-0004,Dissolution Q30 (%),98.043,%,2025-08-21,S. Patel,Swing,Dissolution-Bath-3,Pass
+18,ALZ-100-2508-0004,Related Substances - Total Impurities (%),0.093,%,2025-08-21,R. Okafor,Swing,HPLC-11,Pass
+19,ALZ-100-2508-0004,Water Content (%),1.697,%,2025-08-21,R. Okafor,Swing,HPLC-04,Pass
+20,ALZ-100-2508-0004,Content Uniformity (AV),14.5,AV,2025-08-21,J. Alvarez,Night,HPLC-11,Pass
+21,ALZ-100-2408-0005,Assay (% of label claim),101.352,%,2024-08-10,S. Patel,Swing,KF-Titrator-01,Pass
+22,ALZ-100-2408-0005,Dissolution Q30 (%),98.291,%,2024-08-10,D. Ibrahim,Day,HPLC-11,Pass
+23,ALZ-100-2408-0005,Related Substances - Total Impurities (%),0.057,%,2024-08-10,D. Ibrahim,Night,HPLC-11,Pass
+24,ALZ-100-2408-0005,Water Content (%),3.105,%,2024-08-10,S. Patel,Night,HPLC-11,Pass
+25,ALZ-100-2408-0005,Content Uniformity (AV),12.249,AV,2024-08-10,R. Okafor,Swing,HPLC-04,Pass
+26,ALZ-100-2503-0006,Assay (% of label claim),104.289,%,2025-03-24,T. Novak,Day,Dissolution-Bath-3,Pass
+27,ALZ-100-2503-0006,Dissolution Q30 (%),95.949,%,2025-03-24,T. Novak,Day,Dissolution-Bath-3,Pass
+28,ALZ-100-2503-0006,Related Substances - Total Impurities (%),0.099,%,2025-03-24,S. Patel,Day,KF-Titrator-01,Pass
+29,ALZ-100-2503-0006,Water Content (%),1.367,%,2025-03-24,R. Okafor,Swing,Dissolution-Bath-3,Pass
+30,ALZ-100-2503-0006,Content Uniformity (AV),4.614,AV,2025-03-24,K. Fischer,Swing,UV-02,Pass
+31,ALZ-100-2409-0007,Assay (% of label claim),98.36,%,2024-09-05,M. Chen,Night,HPLC-07,Pass
+32,ALZ-100-2409-0007,Dissolution Q30 (%),90.518,%,2024-09-05,T. Novak,Swing,KF-Titrator-01,Pass
+33,ALZ-100-2409-0007,Related Substances - Total Impurities (%),0.492,%,2024-09-05,S. Patel,Swing,HPLC-07,Pass
+34,ALZ-100-2409-0007,Water Content (%),0.693,%,2024-09-05,M. Chen,Day,HPLC-07,Pass
+35,ALZ-100-2409-0007,Content Uniformity (AV),6.393,AV,2024-09-05,R. Okafor,Night,HPLC-07,Pass
+36,ALZ-100-2503-0008,Assay (% of label claim),100.701,%,2025-03-11,S. Patel,Swing,UV-02,Pass
+37,ALZ-100-2503-0008,Dissolution Q30 (%),92.829,%,2025-03-11,D. Ibrahim,Day,UV-02,Pass
+38,ALZ-100-2503-0008,Related Substances - Total Impurities (%),0.244,%,2025-03-11,R. Okafor,Day,Dissolution-Bath-3,Pass
+39,ALZ-100-2503-0008,Water Content (%),1.042,%,2025-03-11,M. Chen,Day,HPLC-11,Pass
+40,ALZ-100-2503-0008,Content Uniformity (AV),-1.582,AV,2025-03-11,S. Patel,Swing,Dissolution-Bath-3,Pass
+41,ALZ-100-2405-0009,Assay (% of label claim),98.78,%,2024-05-10,J. Alvarez,Day,HPLC-04,Pass
+42,ALZ-100-2405-0009,Dissolution Q30 (%),99.13,%,2024-05-10,D. Ibrahim,Swing,KF-Titrator-01,Pass
+43,ALZ-100-2405-0009,Related Substances - Total Impurities (%),0.403,%,2024-05-10,D. Ibrahim,Night,UV-02,Pass
+44,ALZ-100-2405-0009,Water Content (%),4.11,%,2024-05-10,J. Alvarez,Day,HPLC-07,OOS
+45,ALZ-100-2405-0009,Content Uniformity (AV),7.941,AV,2024-05-10,K. Fischer,Day,Dissolution-Bath-3,Pass
+46,ALZ-100-2510-0010,Assay (% of label claim),100.015,%,2025-10-08,M. Chen,Day,KF-Titrator-01,Pass
+47,ALZ-100-2510-0010,Dissolution Q30 (%),81.247,%,2025-10-08,R. Okafor,Day,Dissolution-Bath-3,Pass
+48,ALZ-100-2510-0010,Related Substances - Total Impurities (%),0.144,%,2025-10-08,K. Fischer,Swing,Dissolution-Bath-3,Pass
+49,ALZ-100-2510-0010,Water Content (%),2.48,%,2025-10-08,T. Novak,Day,UV-02,Pass
+50,ALZ-100-2510-0010,Content Uniformity (AV),5.903,AV,2025-10-08,D. Ibrahim,Night,HPLC-04,Pass
+51,ALZ-100-2508-0011,Assay (% of label claim),101.414,%,2025-08-23,R. Okafor,Night,HPLC-07,Pass
+52,ALZ-100-2508-0011,Dissolution Q30 (%),91.923,%,2025-08-23,M. Chen,Night,HPLC-07,Pass
+53,ALZ-100-2508-0011,Related Substances - Total Impurities (%),-0.001,%,2025-08-23,J. Alvarez,Day,HPLC-07,Pass
+54,ALZ-100-2508-0011,Water Content (%),2.533,%,2025-08-23,K. Fischer,Night,UV-02,Pass
+55,ALZ-100-2508-0011,Content Uniformity (AV),4.562,AV,2025-08-23,R. Okafor,Day,UV-02,Pass
+56,ALZ-100-2408-0012,Assay (% of label claim),101.821,%,2024-08-15,K. Fischer,Swing,HPLC-11,Pass
+57,ALZ-100-2408-0012,Dissolution Q30 (%),94.404,%,2024-08-15,K. Fischer,Night,HPLC-04,Pass
+58,ALZ-100-2408-0012,Related Substances - Total Impurities (%),0.357,%,2024-08-15,M. Chen,Swing,HPLC-07,Pass
+59,ALZ-100-2408-0012,Water Content (%),2.211,%,2024-08-15,R. Okafor,Day,KF-Titrator-01,Pass
+60,ALZ-100-2408-0012,Content Uniformity (AV),10.404,AV,2024-08-15,M. Chen,Day,UV-02,Pass
+61,ALZ-100-2405-0013,Assay (% of label claim),104.863,%,2024-05-20,T. Novak,Day,UV-02,Pass
+62,ALZ-100-2405-0013,Dissolution Q30 (%),97.593,%,2024-05-20,S. Patel,Day,Dissolution-Bath-3,Pass
+63,ALZ-100-2405-0013,Related Substances - Total Impurities (%),0.174,%,2024-05-20,S. Patel,Swing,Dissolution-Bath-3,Pass
+64,ALZ-100-2405-0013,Water Content (%),1.737,%,2024-05-20,M. Chen,Swing,HPLC-07,Pass
+65,ALZ-100-2405-0013,Content Uniformity (AV),-9.262,AV,2024-05-20,T. Novak,Night,UV-02,Pass
+66,ALZ-100-2405-0014,Assay (% of label claim),99.485,%,2024-05-28,R. Okafor,Swing,HPLC-07,Pass
+67,ALZ-100-2405-0014,Dissolution Q30 (%),84.067,%,2024-05-28,J. Alvarez,Swing,HPLC-04,Pass
+68,ALZ-100-2405-0014,Related Substances - Total Impurities (%),0.211,%,2024-05-28,D. Ibrahim,Day,UV-02,Pass
+69,ALZ-100-2405-0014,Water Content (%),1.901,%,2024-05-28,D. Ibrahim,Swing,UV-02,Pass
+70,ALZ-100-2405-0014,Content Uniformity (AV),3.295,AV,2024-05-28,T. Novak,Swing,HPLC-07,Pass
+71,ALZ-100-2411-0015,Assay (% of label claim),98.89,%,2024-11-14,S. Patel,Day,Dissolution-Bath-3,Pass
+72,ALZ-100-2411-0015,Dissolution Q30 (%),94.714,%,2024-11-14,J. Alvarez,Swing,HPLC-04,Pass
+73,ALZ-100-2411-0015,Related Substances - Total Impurities (%),-0.043,%,2024-11-14,D. Ibrahim,Day,HPLC-11,Pass
+74,ALZ-100-2411-0015,Water Content (%),2.881,%,2024-11-14,R. Okafor,Swing,HPLC-11,Pass
+75,ALZ-100-2411-0015,Content Uniformity (AV),13.898,AV,2024-11-14,R. Okafor,Night,Dissolution-Bath-3,Pass
+76,ALZ-100-2508-0016,Assay (% of label claim),104.707,%,2025-08-21,K. Fischer,Night,Dissolution-Bath-3,Pass
+77,ALZ-100-2508-0016,Dissolution Q30 (%),80.342,%,2025-08-21,D. Ibrahim,Day,HPLC-04,Pass
+78,ALZ-100-2508-0016,Related Substances - Total Impurities (%),0.214,%,2025-08-21,S. Patel,Swing,HPLC-11,Pass
+79,ALZ-100-2508-0016,Water Content (%),3.748,%,2025-08-21,M. Chen,Swing,HPLC-07,Pass
+80,ALZ-100-2508-0016,Content Uniformity (AV),6.971,AV,2025-08-21,K. Fischer,Day,KF-Titrator-01,Pass
+81,ALZ-100-2404-0017,Assay (% of label claim),99.375,%,2024-04-11,R. Okafor,Swing,HPLC-11,Pass
+82,ALZ-100-2404-0017,Dissolution Q30 (%),87.852,%,2024-04-11,S. Patel,Day,HPLC-07,Pass
+83,ALZ-100-2404-0017,Related Substances - Total Impurities (%),0.067,%,2024-04-11,K. Fischer,Day,UV-02,Pass
+84,ALZ-100-2404-0017,Water Content (%),1.101,%,2024-04-11,J. Alvarez,Day,HPLC-11,Pass
+85,ALZ-100-2404-0017,Content Uniformity (AV),13.588,AV,2024-04-11,M. Chen,Day,UV-02,Pass
+86,ALZ-100-2403-0018,Assay (% of label claim),82.889,%,2024-03-06,M. Chen,Swing,UV-02,OOS
+87,ALZ-100-2403-0018,Dissolution Q30 (%),88.8,%,2024-03-06,D. Ibrahim,Night,HPLC-04,Pass
+88,ALZ-100-2403-0018,Related Substances - Total Impurities (%),-0.031,%,2024-03-06,R. Okafor,Swing,HPLC-11,Pass
+89,ALZ-100-2403-0018,Water Content (%),1.2,%,2024-03-06,M. Chen,Swing,HPLC-07,Pass
+90,ALZ-100-2403-0018,Content Uniformity (AV),8.513,AV,2024-03-06,M. Chen,Day,HPLC-11,Pass
+91,ALZ-100-2506-0019,Assay (% of label claim),101.224,%,2025-07-03,M. Chen,Night,KF-Titrator-01,Pass
+92,ALZ-100-2506-0019,Dissolution Q30 (%),93.266,%,2025-07-03,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+93,ALZ-100-2506-0019,Related Substances - Total Impurities (%),0.161,%,2025-07-03,D. Ibrahim,Day,UV-02,Pass
+94,ALZ-100-2506-0019,Water Content (%),3.95,%,2025-07-03,R. Okafor,Day,HPLC-04,Pass
+95,ALZ-100-2506-0019,Content Uniformity (AV),4.084,AV,2025-07-03,T. Novak,Night,HPLC-07,Pass
+96,ALZ-100-2504-0020,Assay (% of label claim),101.274,%,2025-04-22,R. Okafor,Night,HPLC-04,Pass
+97,ALZ-100-2504-0020,Dissolution Q30 (%),88.581,%,2025-04-22,T. Novak,Night,KF-Titrator-01,Pass
+98,ALZ-100-2504-0020,Related Substances - Total Impurities (%),0.259,%,2025-04-22,J. Alvarez,Day,HPLC-11,Pass
+99,ALZ-100-2504-0020,Water Content (%),2.149,%,2025-04-22,K. Fischer,Night,HPLC-07,Pass
+100,ALZ-100-2504-0020,Content Uniformity (AV),5.655,AV,2025-04-22,R. Okafor,Day,KF-Titrator-01,Pass
+101,ALZ-100-2411-0021,Assay (% of label claim),98.37,%,2024-11-05,J. Alvarez,Swing,KF-Titrator-01,Pass
+102,ALZ-100-2411-0021,Dissolution Q30 (%),85.725,%,2024-11-05,K. Fischer,Night,HPLC-07,Pass
+103,ALZ-100-2411-0021,Related Substances - Total Impurities (%),0.269,%,2024-11-05,J. Alvarez,Night,HPLC-07,Pass
+104,ALZ-100-2411-0021,Water Content (%),1.723,%,2024-11-05,K. Fischer,Swing,UV-02,Pass
+105,ALZ-100-2411-0021,Content Uniformity (AV),14.333,AV,2024-11-05,T. Novak,Swing,UV-02,Pass
+106,ALZ-100-2409-0022,Assay (% of label claim),105.171,%,2024-09-10,D. Ibrahim,Swing,Dissolution-Bath-3,OOS
+107,ALZ-100-2409-0022,Dissolution Q30 (%),91.61,%,2024-09-10,J. Alvarez,Swing,HPLC-07,Pass
+108,ALZ-100-2409-0022,Related Substances - Total Impurities (%),0.068,%,2024-09-10,D. Ibrahim,Day,UV-02,Pass
+109,ALZ-100-2409-0022,Water Content (%),1.204,%,2024-09-10,M. Chen,Day,HPLC-04,Pass
+110,ALZ-100-2409-0022,Content Uniformity (AV),8.981,AV,2024-09-10,K. Fischer,Swing,HPLC-04,Pass
+111,ALZ-100-2411-0023,Assay (% of label claim),98.572,%,2024-11-08,M. Chen,Swing,HPLC-11,Pass
+112,ALZ-100-2411-0023,Dissolution Q30 (%),95.61,%,2024-11-08,M. Chen,Day,HPLC-04,Pass
+113,ALZ-100-2411-0023,Related Substances - Total Impurities (%),0.155,%,2024-11-08,D. Ibrahim,Day,HPLC-11,Pass
+114,ALZ-100-2411-0023,Water Content (%),0.76,%,2024-11-08,J. Alvarez,Swing,HPLC-11,Pass
+115,ALZ-100-2411-0023,Content Uniformity (AV),7.411,AV,2024-11-08,K. Fischer,Night,Dissolution-Bath-3,Pass
+116,ALZ-100-2504-0024,Assay (% of label claim),99.224,%,2025-04-06,D. Ibrahim,Day,KF-Titrator-01,Pass
+117,ALZ-100-2504-0024,Dissolution Q30 (%),96.493,%,2025-04-06,M. Chen,Night,HPLC-07,Pass
+118,ALZ-100-2504-0024,Related Substances - Total Impurities (%),-0.039,%,2025-04-06,T. Novak,Day,UV-02,Pass
+119,ALZ-100-2504-0024,Water Content (%),3.098,%,2025-04-06,D. Ibrahim,Day,HPLC-04,Pass
+120,ALZ-100-2504-0024,Content Uniformity (AV),12.256,AV,2025-04-06,D. Ibrahim,Night,HPLC-04,Pass
+121,ALZ-100-2403-0025,Assay (% of label claim),98.207,%,2024-03-18,K. Fischer,Swing,Dissolution-Bath-3,Pass
+122,ALZ-100-2403-0025,Dissolution Q30 (%),88.893,%,2024-03-18,T. Novak,Day,UV-02,Pass
+123,ALZ-100-2403-0025,Related Substances - Total Impurities (%),0.052,%,2024-03-18,M. Chen,Day,HPLC-04,Pass
+124,ALZ-100-2403-0025,Water Content (%),2.613,%,2024-03-18,S. Patel,Swing,HPLC-07,Pass
+125,ALZ-100-2403-0025,Content Uniformity (AV),-1.232,AV,2024-03-18,D. Ibrahim,Day,UV-02,Pass
+126,ALZ-100-2503-0026,Assay (% of label claim),97.806,%,2025-03-08,M. Chen,Swing,UV-02,Pass
+127,ALZ-100-2503-0026,Dissolution Q30 (%),93.605,%,2025-03-08,K. Fischer,Day,HPLC-04,Pass
+128,ALZ-100-2503-0026,Related Substances - Total Impurities (%),0.013,%,2025-03-08,J. Alvarez,Night,HPLC-11,Pass
+129,ALZ-100-2503-0026,Water Content (%),1.767,%,2025-03-08,T. Novak,Swing,Dissolution-Bath-3,Pass
+130,ALZ-100-2503-0026,Content Uniformity (AV),14.585,AV,2025-03-08,D. Ibrahim,Day,KF-Titrator-01,Pass
+131,ALZ-100-2406-0027,Assay (% of label claim),99.958,%,2024-06-05,S. Patel,Swing,HPLC-07,Pass
+132,ALZ-100-2406-0027,Dissolution Q30 (%),91.463,%,2024-06-05,D. Ibrahim,Swing,KF-Titrator-01,Pass
+133,ALZ-100-2406-0027,Related Substances - Total Impurities (%),0.065,%,2024-06-05,M. Chen,Swing,KF-Titrator-01,Pass
+134,ALZ-100-2406-0027,Water Content (%),2.156,%,2024-06-05,T. Novak,Swing,HPLC-07,Pass
+135,ALZ-100-2406-0027,Content Uniformity (AV),2.036,AV,2024-06-05,T. Novak,Night,HPLC-07,Pass
+136,ALZ-100-2402-0028,Assay (% of label claim),100.561,%,2024-02-13,K. Fischer,Swing,Dissolution-Bath-3,Pass
+137,ALZ-100-2402-0028,Dissolution Q30 (%),96.051,%,2024-02-13,S. Patel,Day,HPLC-11,Pass
+138,ALZ-100-2402-0028,Related Substances - Total Impurities (%),-0.021,%,2024-02-13,R. Okafor,Swing,KF-Titrator-01,Pass
+139,ALZ-100-2402-0028,Water Content (%),1.809,%,2024-02-13,K. Fischer,Day,HPLC-11,Pass
+140,ALZ-100-2402-0028,Content Uniformity (AV),15.811,AV,2024-02-13,S. Patel,Night,HPLC-11,OOS
+141,ALZ-100-2508-0029,Assay (% of label claim),99.331,%,2025-08-12,R. Okafor,Day,UV-02,Pass
+142,ALZ-100-2508-0029,Dissolution Q30 (%),93.732,%,2025-08-12,T. Novak,Night,HPLC-04,Pass
+143,ALZ-100-2508-0029,Related Substances - Total Impurities (%),0.045,%,2025-08-12,D. Ibrahim,Night,Dissolution-Bath-3,Pass
+144,ALZ-100-2508-0029,Water Content (%),1.939,%,2025-08-12,K. Fischer,Day,Dissolution-Bath-3,Pass
+145,ALZ-100-2508-0029,Content Uniformity (AV),7.148,AV,2025-08-12,S. Patel,Swing,KF-Titrator-01,Pass
+146,ALZ-100-2412-0030,Assay (% of label claim),101.953,%,2024-12-27,M. Chen,Swing,HPLC-07,Pass
+147,ALZ-100-2412-0030,Dissolution Q30 (%),93.347,%,2024-12-27,T. Novak,Swing,HPLC-11,Pass
+148,ALZ-100-2412-0030,Related Substances - Total Impurities (%),0.162,%,2024-12-27,R. Okafor,Night,HPLC-07,Pass
+149,ALZ-100-2412-0030,Water Content (%),1.882,%,2024-12-27,R. Okafor,Night,UV-02,Pass
+150,ALZ-100-2412-0030,Content Uniformity (AV),5.957,AV,2024-12-27,J. Alvarez,Day,Dissolution-Bath-3,Pass
+151,ALZ-100-2504-0031,Assay (% of label claim),100.901,%,2025-04-14,K. Fischer,Swing,UV-02,Pass
+152,ALZ-100-2504-0031,Dissolution Q30 (%),92.915,%,2025-04-14,J. Alvarez,Day,Dissolution-Bath-3,Pass
+153,ALZ-100-2504-0031,Related Substances - Total Impurities (%),0.279,%,2025-04-14,T. Novak,Swing,KF-Titrator-01,Pass
+154,ALZ-100-2504-0031,Water Content (%),3.769,%,2025-04-14,M. Chen,Day,HPLC-04,Pass
+155,ALZ-100-2504-0031,Content Uniformity (AV),0.769,AV,2025-04-14,T. Novak,Day,UV-02,Pass
+156,ALZ-100-2410-0032,Assay (% of label claim),102.838,%,2024-10-05,J. Alvarez,Night,KF-Titrator-01,Pass
+157,ALZ-100-2410-0032,Dissolution Q30 (%),94.617,%,2024-10-05,M. Chen,Day,UV-02,Pass
+158,ALZ-100-2410-0032,Related Substances - Total Impurities (%),0.037,%,2024-10-05,K. Fischer,Swing,KF-Titrator-01,Pass
+159,ALZ-100-2410-0032,Water Content (%),1.477,%,2024-10-05,R. Okafor,Day,HPLC-11,Pass
+160,ALZ-100-2410-0032,Content Uniformity (AV),10.176,AV,2024-10-05,S. Patel,Night,KF-Titrator-01,Pass
+161,ALZ-100-2403-0033,Assay (% of label claim),99.895,%,2024-03-08,S. Patel,Night,UV-02,Pass
+162,ALZ-100-2403-0033,Dissolution Q30 (%),90.541,%,2024-03-08,J. Alvarez,Swing,HPLC-07,Pass
+163,ALZ-100-2403-0033,Related Substances - Total Impurities (%),0.087,%,2024-03-08,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+164,ALZ-100-2403-0033,Water Content (%),3.715,%,2024-03-08,R. Okafor,Night,HPLC-04,Pass
+165,ALZ-100-2403-0033,Content Uniformity (AV),0.112,AV,2024-03-08,D. Ibrahim,Night,HPLC-11,Pass
+166,ALZ-100-2411-0034,Assay (% of label claim),99.379,%,2024-11-16,M. Chen,Day,KF-Titrator-01,Pass
+167,ALZ-100-2411-0034,Dissolution Q30 (%),91.799,%,2024-11-16,K. Fischer,Day,HPLC-07,Pass
+168,ALZ-100-2411-0034,Related Substances - Total Impurities (%),0.24,%,2024-11-16,R. Okafor,Day,UV-02,Pass
+169,ALZ-100-2411-0034,Water Content (%),2.104,%,2024-11-16,K. Fischer,Night,Dissolution-Bath-3,Pass
+170,ALZ-100-2411-0034,Content Uniformity (AV),12.383,AV,2024-11-16,T. Novak,Swing,UV-02,Pass
+171,ALZ-100-2501-0035,Assay (% of label claim),101.173,%,2025-02-04,K. Fischer,Day,KF-Titrator-01,Pass
+172,ALZ-100-2501-0035,Dissolution Q30 (%),88.486,%,2025-02-04,D. Ibrahim,Day,UV-02,Pass
+173,ALZ-100-2501-0035,Related Substances - Total Impurities (%),0.388,%,2025-02-04,M. Chen,Day,HPLC-04,Pass
+174,ALZ-100-2501-0035,Water Content (%),2.723,%,2025-02-04,T. Novak,Day,HPLC-11,Pass
+175,ALZ-100-2501-0035,Content Uniformity (AV),15.886,AV,2025-02-04,J. Alvarez,Day,HPLC-07,OOS
+176,ALZ-100-2504-0036,Assay (% of label claim),99.946,%,2025-04-18,T. Novak,Swing,HPLC-07,Pass
+177,ALZ-100-2504-0036,Dissolution Q30 (%),90.456,%,2025-04-18,D. Ibrahim,Night,Dissolution-Bath-3,Pass
+178,ALZ-100-2504-0036,Related Substances - Total Impurities (%),0.333,%,2025-04-18,S. Patel,Day,HPLC-07,Pass
+179,ALZ-100-2504-0036,Water Content (%),0.854,%,2025-04-18,J. Alvarez,Day,HPLC-04,Pass
+180,ALZ-100-2504-0036,Content Uniformity (AV),13.477,AV,2025-04-18,D. Ibrahim,Night,HPLC-04,Pass
+181,ALZ-100-2509-0037,Assay (% of label claim),102.085,%,2025-09-20,K. Fischer,Day,HPLC-11,Pass
+182,ALZ-100-2509-0037,Dissolution Q30 (%),97.51,%,2025-09-20,S. Patel,Swing,HPLC-04,Pass
+183,ALZ-100-2509-0037,Related Substances - Total Impurities (%),0.185,%,2025-09-20,D. Ibrahim,Swing,HPLC-11,Pass
+184,ALZ-100-2509-0037,Water Content (%),1.906,%,2025-09-20,T. Novak,Night,UV-02,Pass
+185,ALZ-100-2509-0037,Content Uniformity (AV),3.289,AV,2025-09-20,S. Patel,Day,UV-02,Pass
+186,ALZ-100-2403-0038,Assay (% of label claim),99.703,%,2024-03-06,R. Okafor,Swing,Dissolution-Bath-3,Pass
+187,ALZ-100-2403-0038,Dissolution Q30 (%),85.916,%,2024-03-06,D. Ibrahim,Day,KF-Titrator-01,Pass
+188,ALZ-100-2403-0038,Related Substances - Total Impurities (%),0.072,%,2024-03-06,M. Chen,Swing,HPLC-04,Pass
+189,ALZ-100-2403-0038,Water Content (%),1.722,%,2024-03-06,J. Alvarez,Day,HPLC-11,Pass
+190,ALZ-100-2403-0038,Content Uniformity (AV),10.23,AV,2024-03-06,S. Patel,Night,HPLC-07,Pass
+191,ALZ-100-2405-0039,Assay (% of label claim),102.03,%,2024-05-16,T. Novak,Day,HPLC-11,Pass
+192,ALZ-100-2405-0039,Dissolution Q30 (%),90.658,%,2024-05-16,K. Fischer,Day,UV-02,Pass
+193,ALZ-100-2405-0039,Related Substances - Total Impurities (%),0.344,%,2024-05-16,S. Patel,Night,KF-Titrator-01,Pass
+194,ALZ-100-2405-0039,Water Content (%),1.551,%,2024-05-16,K. Fischer,Swing,HPLC-11,Pass
+195,ALZ-100-2405-0039,Content Uniformity (AV),11.314,AV,2024-05-16,K. Fischer,Day,UV-02,Pass
+196,ALZ-100-2502-0040,Assay (% of label claim),98.397,%,2025-02-05,R. Okafor,Swing,UV-02,Pass
+197,ALZ-100-2502-0040,Dissolution Q30 (%),81.022,%,2025-02-05,S. Patel,Night,HPLC-07,Pass
+198,ALZ-100-2502-0040,Related Substances - Total Impurities (%),0.487,%,2025-02-05,T. Novak,Night,KF-Titrator-01,Pass
+199,ALZ-100-2502-0040,Water Content (%),1.639,%,2025-02-05,M. Chen,Swing,Dissolution-Bath-3,Pass
+200,ALZ-100-2502-0040,Content Uniformity (AV),6.789,AV,2025-02-05,R. Okafor,Day,UV-02,Pass
+201,BRN-250-2406-0041,Assay (% of label claim),99.943,%,2024-06-23,R. Okafor,Swing,Dissolution-Bath-3,Pass
+202,BRN-250-2406-0041,Dissolution Q30 (%),95.041,%,2024-06-23,M. Chen,Night,HPLC-07,Pass
+203,BRN-250-2406-0041,Related Substances - Total Impurities (%),0.157,%,2024-06-23,T. Novak,Day,Dissolution-Bath-3,Pass
+204,BRN-250-2406-0041,Water Content (%),0.69,%,2024-06-23,M. Chen,Night,HPLC-11,Pass
+205,BRN-250-2406-0041,Content Uniformity (AV),2.358,AV,2024-06-23,M. Chen,Swing,Dissolution-Bath-3,Pass
+206,BRN-250-2507-0042,Assay (% of label claim),101.046,%,2025-07-17,K. Fischer,Day,HPLC-07,Pass
+207,BRN-250-2507-0042,Dissolution Q30 (%),99.437,%,2025-07-17,K. Fischer,Swing,UV-02,Pass
+208,BRN-250-2507-0042,Related Substances - Total Impurities (%),0.128,%,2025-07-17,J. Alvarez,Night,HPLC-04,Pass
+209,BRN-250-2507-0042,Water Content (%),2.587,%,2025-07-17,J. Alvarez,Swing,UV-02,Pass
+210,BRN-250-2507-0042,Content Uniformity (AV),1.162,AV,2025-07-17,T. Novak,Night,HPLC-11,Pass
+211,BRN-250-2503-0043,Assay (% of label claim),99.87,%,2025-03-20,J. Alvarez,Night,HPLC-07,Pass
+212,BRN-250-2503-0043,Dissolution Q30 (%),80.911,%,2025-03-20,T. Novak,Night,Dissolution-Bath-3,Pass
+213,BRN-250-2503-0043,Related Substances - Total Impurities (%),0.35,%,2025-03-20,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+214,BRN-250-2503-0043,Water Content (%),2.881,%,2025-03-20,K. Fischer,Night,HPLC-07,Pass
+215,BRN-250-2503-0043,Content Uniformity (AV),-0.543,AV,2025-03-20,K. Fischer,Day,UV-02,Pass
+216,BRN-250-2503-0044,Assay (% of label claim),99.45,%,2025-03-05,S. Patel,Day,UV-02,Pass
+217,BRN-250-2503-0044,Dissolution Q30 (%),90.625,%,2025-03-05,K. Fischer,Day,HPLC-11,Pass
+218,BRN-250-2503-0044,Related Substances - Total Impurities (%),0.126,%,2025-03-05,D. Ibrahim,Swing,KF-Titrator-01,Pass
+219,BRN-250-2503-0044,Water Content (%),2.015,%,2025-03-05,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+220,BRN-250-2503-0044,Content Uniformity (AV),11.254,AV,2025-03-05,J. Alvarez,Day,HPLC-11,Pass
+221,BRN-250-2501-0045,Assay (% of label claim),100.221,%,2025-01-29,K. Fischer,Day,KF-Titrator-01,Pass
+222,BRN-250-2501-0045,Dissolution Q30 (%),94.66,%,2025-01-29,M. Chen,Night,UV-02,Pass
+223,BRN-250-2501-0045,Related Substances - Total Impurities (%),0.039,%,2025-01-29,K. Fischer,Swing,KF-Titrator-01,Pass
+224,BRN-250-2501-0045,Water Content (%),1.962,%,2025-01-29,K. Fischer,Day,UV-02,Pass
+225,BRN-250-2501-0045,Content Uniformity (AV),-0.249,AV,2025-01-29,J. Alvarez,Night,KF-Titrator-01,Pass
+226,BRN-250-2403-0046,Assay (% of label claim),99.973,%,2024-03-28,J. Alvarez,Day,HPLC-04,Pass
+227,BRN-250-2403-0046,Dissolution Q30 (%),96.119,%,2024-03-28,S. Patel,Night,Dissolution-Bath-3,Pass
+228,BRN-250-2403-0046,Related Substances - Total Impurities (%),0.098,%,2024-03-28,R. Okafor,Night,UV-02,Pass
+229,BRN-250-2403-0046,Water Content (%),3.823,%,2024-03-28,M. Chen,Swing,UV-02,Pass
+230,BRN-250-2403-0046,Content Uniformity (AV),3.106,AV,2024-03-28,M. Chen,Day,Dissolution-Bath-3,Pass
+231,BRN-250-2408-0047,Assay (% of label claim),98.841,%,2024-08-27,M. Chen,Swing,Dissolution-Bath-3,Pass
+232,BRN-250-2408-0047,Dissolution Q30 (%),90.857,%,2024-08-27,D. Ibrahim,Swing,UV-02,Pass
+233,BRN-250-2408-0047,Related Substances - Total Impurities (%),0.532,%,2024-08-27,K. Fischer,Day,UV-02,OOS
+234,BRN-250-2408-0047,Water Content (%),2.326,%,2024-08-27,S. Patel,Night,HPLC-11,Pass
+235,BRN-250-2408-0047,Content Uniformity (AV),15.863,AV,2024-08-27,S. Patel,Day,Dissolution-Bath-3,OOS
+236,BRN-250-2505-0048,Assay (% of label claim),98.887,%,2025-05-14,K. Fischer,Swing,HPLC-11,Pass
+237,BRN-250-2505-0048,Dissolution Q30 (%),86.612,%,2025-05-14,K. Fischer,Swing,HPLC-07,Pass
+238,BRN-250-2505-0048,Related Substances - Total Impurities (%),0.454,%,2025-05-14,J. Alvarez,Day,KF-Titrator-01,Pass
+239,BRN-250-2505-0048,Water Content (%),3.756,%,2025-05-14,M. Chen,Night,HPLC-11,Pass
+240,BRN-250-2505-0048,Content Uniformity (AV),6.381,AV,2025-05-14,J. Alvarez,Night,HPLC-04,Pass
+241,BRN-250-2410-0049,Assay (% of label claim),104.474,%,2024-10-17,R. Okafor,Night,HPLC-04,Pass
+242,BRN-250-2410-0049,Dissolution Q30 (%),93.639,%,2024-10-17,S. Patel,Swing,HPLC-07,Pass
+243,BRN-250-2410-0049,Related Substances - Total Impurities (%),0.088,%,2024-10-17,S. Patel,Night,HPLC-07,Pass
+244,BRN-250-2410-0049,Water Content (%),1.269,%,2024-10-17,J. Alvarez,Night,KF-Titrator-01,Pass
+245,BRN-250-2410-0049,Content Uniformity (AV),-5.793,AV,2024-10-17,D. Ibrahim,Swing,HPLC-07,Pass
+246,BRN-250-2503-0050,Assay (% of label claim),97.173,%,2025-03-09,S. Patel,Night,HPLC-04,Pass
+247,BRN-250-2503-0050,Dissolution Q30 (%),90.671,%,2025-03-09,R. Okafor,Swing,HPLC-07,Pass
+248,BRN-250-2503-0050,Related Substances - Total Impurities (%),-0.004,%,2025-03-09,S. Patel,Swing,HPLC-07,Pass
+249,BRN-250-2503-0050,Water Content (%),2.15,%,2025-03-09,M. Chen,Swing,HPLC-07,Pass
+250,BRN-250-2503-0050,Content Uniformity (AV),4.289,AV,2025-03-09,D. Ibrahim,Swing,UV-02,Pass
+251,BRN-250-2508-0051,Assay (% of label claim),99.847,%,2025-08-07,R. Okafor,Swing,HPLC-11,Pass
+252,BRN-250-2508-0051,Dissolution Q30 (%),98.305,%,2025-08-07,M. Chen,Night,HPLC-11,Pass
+253,BRN-250-2508-0051,Related Substances - Total Impurities (%),0.15,%,2025-08-07,J. Alvarez,Day,KF-Titrator-01,Pass
+254,BRN-250-2508-0051,Water Content (%),1.78,%,2025-08-07,D. Ibrahim,Day,KF-Titrator-01,Pass
+255,BRN-250-2508-0051,Content Uniformity (AV),-10.245,AV,2025-08-07,D. Ibrahim,Day,HPLC-04,Pass
+256,BRN-250-2506-0052,Assay (% of label claim),98.877,%,2025-06-13,D. Ibrahim,Night,HPLC-11,Pass
+257,BRN-250-2506-0052,Dissolution Q30 (%),89.295,%,2025-06-13,D. Ibrahim,Night,KF-Titrator-01,Pass
+258,BRN-250-2506-0052,Related Substances - Total Impurities (%),0.182,%,2025-06-13,S. Patel,Swing,KF-Titrator-01,Pass
+259,BRN-250-2506-0052,Water Content (%),2.726,%,2025-06-13,R. Okafor,Swing,HPLC-11,Pass
+260,BRN-250-2506-0052,Content Uniformity (AV),0.251,AV,2025-06-13,R. Okafor,Night,HPLC-11,Pass
+261,BRN-250-2507-0053,Assay (% of label claim),101.178,%,2025-07-28,D. Ibrahim,Day,HPLC-11,Pass
+262,BRN-250-2507-0053,Dissolution Q30 (%),91.497,%,2025-07-28,K. Fischer,Day,HPLC-04,Pass
+263,BRN-250-2507-0053,Related Substances - Total Impurities (%),0.088,%,2025-07-28,T. Novak,Swing,KF-Titrator-01,Pass
+264,BRN-250-2507-0053,Water Content (%),1.73,%,2025-07-28,J. Alvarez,Day,UV-02,Pass
+265,BRN-250-2507-0053,Content Uniformity (AV),5.099,AV,2025-07-28,K. Fischer,Day,KF-Titrator-01,Pass
+266,BRN-250-2502-0054,Assay (% of label claim),98.174,%,2025-02-17,K. Fischer,Night,KF-Titrator-01,Pass
+267,BRN-250-2502-0054,Dissolution Q30 (%),88.053,%,2025-02-17,J. Alvarez,Day,HPLC-04,Pass
+268,BRN-250-2502-0054,Related Substances - Total Impurities (%),-0.051,%,2025-02-17,J. Alvarez,Night,HPLC-07,Pass
+269,BRN-250-2502-0054,Water Content (%),2.311,%,2025-02-17,S. Patel,Day,Dissolution-Bath-3,Pass
+270,BRN-250-2502-0054,Content Uniformity (AV),5.459,AV,2025-02-17,R. Okafor,Night,Dissolution-Bath-3,Pass
+271,BRN-250-2505-0055,Assay (% of label claim),99.311,%,2025-05-11,M. Chen,Swing,HPLC-04,Pass
+272,BRN-250-2505-0055,Dissolution Q30 (%),86.544,%,2025-05-11,J. Alvarez,Swing,KF-Titrator-01,Pass
+273,BRN-250-2505-0055,Related Substances - Total Impurities (%),0.224,%,2025-05-11,D. Ibrahim,Day,UV-02,Pass
+274,BRN-250-2505-0055,Water Content (%),2.664,%,2025-05-11,J. Alvarez,Night,UV-02,Pass
+275,BRN-250-2505-0055,Content Uniformity (AV),1.951,AV,2025-05-11,K. Fischer,Day,UV-02,Pass
+276,BRN-250-2407-0056,Assay (% of label claim),101.716,%,2024-07-18,M. Chen,Night,HPLC-04,Pass
+277,BRN-250-2407-0056,Dissolution Q30 (%),94.364,%,2024-07-18,J. Alvarez,Night,Dissolution-Bath-3,Pass
+278,BRN-250-2407-0056,Related Substances - Total Impurities (%),0.201,%,2024-07-18,D. Ibrahim,Day,HPLC-07,Pass
+279,BRN-250-2407-0056,Water Content (%),1.937,%,2024-07-18,R. Okafor,Night,KF-Titrator-01,Pass
+280,BRN-250-2407-0056,Content Uniformity (AV),3.744,AV,2024-07-18,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+281,BRN-250-2503-0057,Assay (% of label claim),98.879,%,2025-03-29,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+282,BRN-250-2503-0057,Dissolution Q30 (%),85.75,%,2025-03-29,R. Okafor,Day,Dissolution-Bath-3,Pass
+283,BRN-250-2503-0057,Related Substances - Total Impurities (%),0.152,%,2025-03-29,J. Alvarez,Day,Dissolution-Bath-3,Pass
+284,BRN-250-2503-0057,Water Content (%),1.488,%,2025-03-29,R. Okafor,Night,KF-Titrator-01,Pass
+285,BRN-250-2503-0057,Content Uniformity (AV),1.415,AV,2025-03-29,D. Ibrahim,Swing,KF-Titrator-01,Pass
+286,BRN-250-2412-0058,Assay (% of label claim),102.678,%,2024-12-15,S. Patel,Night,HPLC-07,Pass
+287,BRN-250-2412-0058,Dissolution Q30 (%),89.856,%,2024-12-15,D. Ibrahim,Day,HPLC-11,Pass
+288,BRN-250-2412-0058,Related Substances - Total Impurities (%),0.486,%,2024-12-15,D. Ibrahim,Swing,UV-02,Pass
+289,BRN-250-2412-0058,Water Content (%),2.381,%,2024-12-15,D. Ibrahim,Night,HPLC-11,Pass
+290,BRN-250-2412-0058,Content Uniformity (AV),-5.031,AV,2024-12-15,J. Alvarez,Night,Dissolution-Bath-3,Pass
+291,BRN-250-2401-0059,Assay (% of label claim),96.207,%,2024-01-06,D. Ibrahim,Day,KF-Titrator-01,Pass
+292,BRN-250-2401-0059,Dissolution Q30 (%),84.864,%,2024-01-06,T. Novak,Swing,HPLC-07,Pass
+293,BRN-250-2401-0059,Related Substances - Total Impurities (%),0.084,%,2024-01-06,M. Chen,Swing,HPLC-11,Pass
+294,BRN-250-2401-0059,Water Content (%),1.129,%,2024-01-06,R. Okafor,Swing,HPLC-11,Pass
+295,BRN-250-2401-0059,Content Uniformity (AV),-2.06,AV,2024-01-06,D. Ibrahim,Day,HPLC-11,Pass
+296,BRN-250-2404-0060,Assay (% of label claim),98.332,%,2024-04-15,D. Ibrahim,Night,HPLC-07,Pass
+297,BRN-250-2404-0060,Dissolution Q30 (%),96.524,%,2024-04-15,K. Fischer,Swing,HPLC-11,Pass
+298,BRN-250-2404-0060,Related Substances - Total Impurities (%),-0.029,%,2024-04-15,T. Novak,Night,UV-02,Pass
+299,BRN-250-2404-0060,Water Content (%),2.357,%,2024-04-15,M. Chen,Swing,KF-Titrator-01,Pass
+300,BRN-250-2404-0060,Content Uniformity (AV),10.104,AV,2024-04-15,S. Patel,Swing,Dissolution-Bath-3,Pass
+301,BRN-250-2401-0061,Assay (% of label claim),104.519,%,2024-01-29,J. Alvarez,Swing,UV-02,Pass
+302,BRN-250-2401-0061,Dissolution Q30 (%),88.167,%,2024-01-29,J. Alvarez,Day,UV-02,Pass
+303,BRN-250-2401-0061,Related Substances - Total Impurities (%),0.124,%,2024-01-29,R. Okafor,Night,HPLC-11,Pass
+304,BRN-250-2401-0061,Water Content (%),1.616,%,2024-01-29,M. Chen,Day,HPLC-07,Pass
+305,BRN-250-2401-0061,Content Uniformity (AV),2.673,AV,2024-01-29,R. Okafor,Swing,KF-Titrator-01,Pass
+306,BRN-250-2509-0062,Assay (% of label claim),100.639,%,2025-09-25,M. Chen,Day,UV-02,Pass
+307,BRN-250-2509-0062,Dissolution Q30 (%),83.86,%,2025-09-25,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+308,BRN-250-2509-0062,Related Substances - Total Impurities (%),0.243,%,2025-09-25,J. Alvarez,Swing,HPLC-11,Pass
+309,BRN-250-2509-0062,Water Content (%),2.3,%,2025-09-25,J. Alvarez,Day,HPLC-04,Pass
+310,BRN-250-2509-0062,Content Uniformity (AV),7.42,AV,2025-09-25,T. Novak,Night,HPLC-07,Pass
+311,BRN-250-2510-0063,Assay (% of label claim),104.718,%,2025-10-14,J. Alvarez,Swing,KF-Titrator-01,Pass
+312,BRN-250-2510-0063,Dissolution Q30 (%),88.065,%,2025-10-14,M. Chen,Swing,HPLC-04,Pass
+313,BRN-250-2510-0063,Related Substances - Total Impurities (%),0.269,%,2025-10-14,J. Alvarez,Day,HPLC-04,Pass
+314,BRN-250-2510-0063,Water Content (%),1.977,%,2025-10-14,D. Ibrahim,Night,UV-02,Pass
+315,BRN-250-2510-0063,Content Uniformity (AV),8.618,AV,2025-10-14,D. Ibrahim,Night,Dissolution-Bath-3,Pass
+316,BRN-250-2509-0064,Assay (% of label claim),104.441,%,2025-09-12,J. Alvarez,Swing,HPLC-11,Pass
+317,BRN-250-2509-0064,Dissolution Q30 (%),84.647,%,2025-09-12,K. Fischer,Day,Dissolution-Bath-3,Pass
+318,BRN-250-2509-0064,Related Substances - Total Impurities (%),0.248,%,2025-09-12,R. Okafor,Day,Dissolution-Bath-3,Pass
+319,BRN-250-2509-0064,Water Content (%),3.243,%,2025-09-12,J. Alvarez,Swing,HPLC-11,Pass
+320,BRN-250-2509-0064,Content Uniformity (AV),3.136,AV,2025-09-12,J. Alvarez,Swing,KF-Titrator-01,Pass
+321,BRN-250-2405-0065,Assay (% of label claim),99.865,%,2024-05-09,M. Chen,Swing,HPLC-04,Pass
+322,BRN-250-2405-0065,Dissolution Q30 (%),81.296,%,2024-05-09,R. Okafor,Night,KF-Titrator-01,Pass
+323,BRN-250-2405-0065,Related Substances - Total Impurities (%),0.071,%,2024-05-09,R. Okafor,Swing,UV-02,Pass
+324,BRN-250-2405-0065,Water Content (%),1.354,%,2024-05-09,S. Patel,Swing,HPLC-07,Pass
+325,BRN-250-2405-0065,Content Uniformity (AV),7.019,AV,2024-05-09,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+326,BRN-250-2504-0066,Assay (% of label claim),96.372,%,2025-04-24,M. Chen,Day,HPLC-04,Pass
+327,BRN-250-2504-0066,Dissolution Q30 (%),81.592,%,2025-04-24,K. Fischer,Day,UV-02,Pass
+328,BRN-250-2504-0066,Related Substances - Total Impurities (%),0.451,%,2025-04-24,S. Patel,Day,Dissolution-Bath-3,Pass
+329,BRN-250-2504-0066,Water Content (%),2.608,%,2025-04-24,M. Chen,Swing,HPLC-04,Pass
+330,BRN-250-2504-0066,Content Uniformity (AV),3.412,AV,2025-04-24,M. Chen,Swing,HPLC-07,Pass
+331,BRN-250-2411-0067,Assay (% of label claim),96.498,%,2024-11-16,S. Patel,Day,HPLC-11,Pass
+332,BRN-250-2411-0067,Dissolution Q30 (%),94.65,%,2024-11-16,M. Chen,Day,HPLC-04,Pass
+333,BRN-250-2411-0067,Related Substances - Total Impurities (%),0.209,%,2024-11-16,M. Chen,Swing,UV-02,Pass
+334,BRN-250-2411-0067,Water Content (%),1.466,%,2024-11-16,S. Patel,Swing,HPLC-04,Pass
+335,BRN-250-2411-0067,Content Uniformity (AV),-1.417,AV,2024-11-16,D. Ibrahim,Night,HPLC-07,Pass
+336,BRN-250-2404-0068,Assay (% of label claim),99.791,%,2024-04-19,R. Okafor,Day,HPLC-11,Pass
+337,BRN-250-2404-0068,Dissolution Q30 (%),96.392,%,2024-04-19,R. Okafor,Day,HPLC-07,Pass
+338,BRN-250-2404-0068,Related Substances - Total Impurities (%),0.126,%,2024-04-19,R. Okafor,Swing,HPLC-07,Pass
+339,BRN-250-2404-0068,Water Content (%),1.914,%,2024-04-19,K. Fischer,Day,UV-02,Pass
+340,BRN-250-2404-0068,Content Uniformity (AV),0.826,AV,2024-04-19,R. Okafor,Night,HPLC-07,Pass
+341,BRN-250-2409-0069,Assay (% of label claim),101.057,%,2024-10-02,M. Chen,Swing,UV-02,Pass
+342,BRN-250-2409-0069,Dissolution Q30 (%),87.534,%,2024-10-02,S. Patel,Day,HPLC-11,Pass
+343,BRN-250-2409-0069,Related Substances - Total Impurities (%),0.2,%,2024-10-02,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+344,BRN-250-2409-0069,Water Content (%),2.337,%,2024-10-02,T. Novak,Day,HPLC-04,Pass
+345,BRN-250-2409-0069,Content Uniformity (AV),3.218,AV,2024-10-02,M. Chen,Day,HPLC-07,Pass
+346,BRN-250-2406-0070,Assay (% of label claim),97.059,%,2024-06-19,K. Fischer,Day,KF-Titrator-01,Pass
+347,BRN-250-2406-0070,Dissolution Q30 (%),98.435,%,2024-06-19,T. Novak,Swing,Dissolution-Bath-3,Pass
+348,BRN-250-2406-0070,Related Substances - Total Impurities (%),0.469,%,2024-06-19,R. Okafor,Swing,HPLC-11,Pass
+349,BRN-250-2406-0070,Water Content (%),2.068,%,2024-06-19,D. Ibrahim,Swing,HPLC-04,Pass
+350,BRN-250-2406-0070,Content Uniformity (AV),7.702,AV,2024-06-19,D. Ibrahim,Night,HPLC-11,Pass
+351,BRN-250-2506-0071,Assay (% of label claim),98.935,%,2025-06-26,D. Ibrahim,Swing,HPLC-04,Pass
+352,BRN-250-2506-0071,Dissolution Q30 (%),88.105,%,2025-06-26,J. Alvarez,Swing,KF-Titrator-01,Pass
+353,BRN-250-2506-0071,Related Substances - Total Impurities (%),0.449,%,2025-06-26,J. Alvarez,Day,HPLC-11,Pass
+354,BRN-250-2506-0071,Water Content (%),2.681,%,2025-06-26,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+355,BRN-250-2506-0071,Content Uniformity (AV),-3.299,AV,2025-06-26,R. Okafor,Day,Dissolution-Bath-3,Pass
+356,BRN-250-2507-0072,Assay (% of label claim),98.275,%,2025-07-14,J. Alvarez,Night,KF-Titrator-01,Pass
+357,BRN-250-2507-0072,Dissolution Q30 (%),92.073,%,2025-07-14,T. Novak,Day,HPLC-07,Pass
+358,BRN-250-2507-0072,Related Substances - Total Impurities (%),0.203,%,2025-07-14,R. Okafor,Night,HPLC-04,Pass
+359,BRN-250-2507-0072,Water Content (%),3.026,%,2025-07-14,R. Okafor,Day,KF-Titrator-01,Pass
+360,BRN-250-2507-0072,Content Uniformity (AV),1.183,AV,2025-07-14,S. Patel,Night,HPLC-07,Pass
+361,BRN-250-2411-0073,Assay (% of label claim),101.898,%,2024-11-05,J. Alvarez,Swing,HPLC-04,Pass
+362,BRN-250-2411-0073,Dissolution Q30 (%),87.121,%,2024-11-05,T. Novak,Night,HPLC-11,Pass
+363,BRN-250-2411-0073,Related Substances - Total Impurities (%),0.334,%,2024-11-05,T. Novak,Night,HPLC-07,Pass
+364,BRN-250-2411-0073,Water Content (%),3.006,%,2024-11-05,M. Chen,Night,KF-Titrator-01,Pass
+365,BRN-250-2411-0073,Content Uniformity (AV),-3.46,AV,2024-11-05,J. Alvarez,Night,UV-02,Pass
+366,BRN-250-2409-0074,Assay (% of label claim),102.576,%,2024-09-28,T. Novak,Night,HPLC-04,Pass
+367,BRN-250-2409-0074,Dissolution Q30 (%),98.786,%,2024-09-28,R. Okafor,Swing,HPLC-07,Pass
+368,BRN-250-2409-0074,Related Substances - Total Impurities (%),0.073,%,2024-09-28,K. Fischer,Swing,KF-Titrator-01,Pass
+369,BRN-250-2409-0074,Water Content (%),3.098,%,2024-09-28,D. Ibrahim,Night,HPLC-04,Pass
+370,BRN-250-2409-0074,Content Uniformity (AV),0.315,AV,2024-09-28,M. Chen,Night,HPLC-11,Pass
+371,BRN-250-2412-0075,Assay (% of label claim),99.861,%,2025-01-01,J. Alvarez,Night,HPLC-07,Pass
+372,BRN-250-2412-0075,Dissolution Q30 (%),91.453,%,2025-01-01,S. Patel,Day,KF-Titrator-01,Pass
+373,BRN-250-2412-0075,Related Substances - Total Impurities (%),0.17,%,2025-01-01,S. Patel,Swing,Dissolution-Bath-3,Pass
+374,BRN-250-2412-0075,Water Content (%),2.723,%,2025-01-01,J. Alvarez,Day,Dissolution-Bath-3,Pass
+375,BRN-250-2412-0075,Content Uniformity (AV),8.681,AV,2025-01-01,K. Fischer,Night,HPLC-04,Pass
+376,BRN-250-2507-0076,Assay (% of label claim),98.794,%,2025-07-13,J. Alvarez,Night,HPLC-04,Pass
+377,BRN-250-2507-0076,Dissolution Q30 (%),95.295,%,2025-07-13,R. Okafor,Swing,Dissolution-Bath-3,Pass
+378,BRN-250-2507-0076,Related Substances - Total Impurities (%),0.119,%,2025-07-13,J. Alvarez,Night,KF-Titrator-01,Pass
+379,BRN-250-2507-0076,Water Content (%),3.938,%,2025-07-13,T. Novak,Night,HPLC-07,Pass
+380,BRN-250-2507-0076,Content Uniformity (AV),-3.989,AV,2025-07-13,S. Patel,Night,HPLC-11,Pass
+381,BRN-250-2408-0077,Assay (% of label claim),99.734,%,2024-08-19,J. Alvarez,Night,KF-Titrator-01,Pass
+382,BRN-250-2408-0077,Dissolution Q30 (%),85.796,%,2024-08-19,M. Chen,Night,UV-02,Pass
+383,BRN-250-2408-0077,Related Substances - Total Impurities (%),0.204,%,2024-08-19,K. Fischer,Swing,UV-02,Pass
+384,BRN-250-2408-0077,Water Content (%),1.736,%,2024-08-19,D. Ibrahim,Swing,HPLC-04,Pass
+385,BRN-250-2408-0077,Content Uniformity (AV),8.142,AV,2024-08-19,M. Chen,Day,KF-Titrator-01,Pass
+386,BRN-250-2502-0078,Assay (% of label claim),99.768,%,2025-02-19,R. Okafor,Day,HPLC-07,Pass
+387,BRN-250-2502-0078,Dissolution Q30 (%),91.667,%,2025-02-19,R. Okafor,Swing,HPLC-11,Pass
+388,BRN-250-2502-0078,Related Substances - Total Impurities (%),0.252,%,2025-02-19,D. Ibrahim,Day,HPLC-07,Pass
+389,BRN-250-2502-0078,Water Content (%),1.954,%,2025-02-19,T. Novak,Swing,UV-02,Pass
+390,BRN-250-2502-0078,Content Uniformity (AV),-3.259,AV,2025-02-19,R. Okafor,Night,HPLC-04,Pass
+391,BRN-250-2506-0079,Assay (% of label claim),99.646,%,2025-06-19,K. Fischer,Night,HPLC-07,Pass
+392,BRN-250-2506-0079,Dissolution Q30 (%),90.865,%,2025-06-19,M. Chen,Night,KF-Titrator-01,Pass
+393,BRN-250-2506-0079,Related Substances - Total Impurities (%),0.091,%,2025-06-19,D. Ibrahim,Night,HPLC-04,Pass
+394,BRN-250-2506-0079,Water Content (%),1.95,%,2025-06-19,S. Patel,Swing,Dissolution-Bath-3,Pass
+395,BRN-250-2506-0079,Content Uniformity (AV),-2.496,AV,2025-06-19,K. Fischer,Day,UV-02,Pass
+396,BRN-250-2401-0080,Assay (% of label claim),100.229,%,2024-01-31,S. Patel,Swing,KF-Titrator-01,Pass
+397,BRN-250-2401-0080,Dissolution Q30 (%),86.45,%,2024-01-31,D. Ibrahim,Swing,KF-Titrator-01,Pass
+398,BRN-250-2401-0080,Related Substances - Total Impurities (%),0.052,%,2024-01-31,S. Patel,Swing,Dissolution-Bath-3,Pass
+399,BRN-250-2401-0080,Water Content (%),2.527,%,2024-01-31,R. Okafor,Swing,KF-Titrator-01,Pass
+400,BRN-250-2401-0080,Content Uniformity (AV),1.461,AV,2024-01-31,D. Ibrahim,Night,UV-02,Pass
+401,CTX-50-2504-0081,Assay (% of label claim),101.024,%,2025-05-02,M. Chen,Night,HPLC-11,Pass
+402,CTX-50-2504-0081,Dissolution Q30 (%),88.244,%,2025-05-02,M. Chen,Day,HPLC-11,Pass
+403,CTX-50-2504-0081,Related Substances - Total Impurities (%),0.197,%,2025-05-02,D. Ibrahim,Night,HPLC-07,Pass
+404,CTX-50-2504-0081,Water Content (%),3.907,%,2025-05-02,S. Patel,Day,HPLC-04,Pass
+405,CTX-50-2504-0081,Content Uniformity (AV),-0.145,AV,2025-05-02,T. Novak,Swing,KF-Titrator-01,Pass
+406,CTX-50-2509-0082,Assay (% of label claim),109.852,%,2025-09-16,K. Fischer,Swing,UV-02,OOS
+407,CTX-50-2509-0082,Dissolution Q30 (%),90.045,%,2025-09-16,J. Alvarez,Night,Dissolution-Bath-3,Pass
+408,CTX-50-2509-0082,Related Substances - Total Impurities (%),0.324,%,2025-09-16,T. Novak,Day,HPLC-04,Pass
+409,CTX-50-2509-0082,Water Content (%),1.662,%,2025-09-16,T. Novak,Swing,Dissolution-Bath-3,Pass
+410,CTX-50-2509-0082,Content Uniformity (AV),-3.083,AV,2025-09-16,S. Patel,Swing,UV-02,Pass
+411,CTX-50-2412-0083,Assay (% of label claim),98.384,%,2024-12-27,T. Novak,Swing,Dissolution-Bath-3,Pass
+412,CTX-50-2412-0083,Dissolution Q30 (%),93.034,%,2024-12-27,R. Okafor,Swing,HPLC-04,Pass
+413,CTX-50-2412-0083,Related Substances - Total Impurities (%),0.081,%,2024-12-27,T. Novak,Day,HPLC-04,Pass
+414,CTX-50-2412-0083,Water Content (%),1.821,%,2024-12-27,T. Novak,Swing,Dissolution-Bath-3,Pass
+415,CTX-50-2412-0083,Content Uniformity (AV),7.391,AV,2024-12-27,R. Okafor,Night,HPLC-07,Pass
+416,CTX-50-2408-0084,Assay (% of label claim),99.475,%,2024-08-18,T. Novak,Night,HPLC-04,Pass
+417,CTX-50-2408-0084,Dissolution Q30 (%),92.775,%,2024-08-18,K. Fischer,Night,Dissolution-Bath-3,Pass
+418,CTX-50-2408-0084,Related Substances - Total Impurities (%),-0.033,%,2024-08-18,R. Okafor,Night,Dissolution-Bath-3,Pass
+419,CTX-50-2408-0084,Water Content (%),2.651,%,2024-08-18,R. Okafor,Swing,HPLC-04,Pass
+420,CTX-50-2408-0084,Content Uniformity (AV),2.746,AV,2024-08-18,S. Patel,Night,KF-Titrator-01,Pass
+421,CTX-50-2504-0085,Assay (% of label claim),98.992,%,2025-04-29,T. Novak,Night,HPLC-07,Pass
+422,CTX-50-2504-0085,Dissolution Q30 (%),90.187,%,2025-04-29,M. Chen,Night,KF-Titrator-01,Pass
+423,CTX-50-2504-0085,Related Substances - Total Impurities (%),0.183,%,2025-04-29,J. Alvarez,Day,HPLC-07,Pass
+424,CTX-50-2504-0085,Water Content (%),3.832,%,2025-04-29,S. Patel,Night,UV-02,Pass
+425,CTX-50-2504-0085,Content Uniformity (AV),4.565,AV,2025-04-29,D. Ibrahim,Night,HPLC-11,Pass
+426,CTX-50-2407-0086,Assay (% of label claim),100.106,%,2024-07-30,R. Okafor,Swing,HPLC-07,Pass
+427,CTX-50-2407-0086,Dissolution Q30 (%),86.256,%,2024-07-30,T. Novak,Day,HPLC-11,Pass
+428,CTX-50-2407-0086,Related Substances - Total Impurities (%),-0.025,%,2024-07-30,T. Novak,Swing,HPLC-04,Pass
+429,CTX-50-2407-0086,Water Content (%),2.715,%,2024-07-30,J. Alvarez,Swing,HPLC-04,Pass
+430,CTX-50-2407-0086,Content Uniformity (AV),0.769,AV,2024-07-30,M. Chen,Day,HPLC-04,Pass
+431,CTX-50-2509-0087,Assay (% of label claim),104.344,%,2025-09-18,R. Okafor,Day,UV-02,Pass
+432,CTX-50-2509-0087,Dissolution Q30 (%),83.479,%,2025-09-18,S. Patel,Day,HPLC-07,Pass
+433,CTX-50-2509-0087,Related Substances - Total Impurities (%),-0.037,%,2025-09-18,K. Fischer,Night,KF-Titrator-01,Pass
+434,CTX-50-2509-0087,Water Content (%),1.481,%,2025-09-18,S. Patel,Day,HPLC-07,Pass
+435,CTX-50-2509-0087,Content Uniformity (AV),11.32,AV,2025-09-18,M. Chen,Swing,UV-02,Pass
+436,CTX-50-2510-0088,Assay (% of label claim),101.298,%,2025-11-01,R. Okafor,Day,HPLC-11,Pass
+437,CTX-50-2510-0088,Dissolution Q30 (%),89.158,%,2025-11-01,S. Patel,Swing,UV-02,Pass
+438,CTX-50-2510-0088,Related Substances - Total Impurities (%),0.275,%,2025-11-01,R. Okafor,Night,HPLC-07,Pass
+439,CTX-50-2510-0088,Water Content (%),1.823,%,2025-11-01,S. Patel,Swing,HPLC-11,Pass
+440,CTX-50-2510-0088,Content Uniformity (AV),9.552,AV,2025-11-01,R. Okafor,Day,HPLC-07,Pass
+441,CTX-50-2403-0089,Assay (% of label claim),100.563,%,2024-03-29,R. Okafor,Night,HPLC-07,Pass
+442,CTX-50-2403-0089,Dissolution Q30 (%),84.683,%,2024-03-29,M. Chen,Day,HPLC-11,Pass
+443,CTX-50-2403-0089,Related Substances - Total Impurities (%),0.195,%,2024-03-29,K. Fischer,Swing,UV-02,Pass
+444,CTX-50-2403-0089,Water Content (%),1.486,%,2024-03-29,S. Patel,Night,HPLC-07,Pass
+445,CTX-50-2403-0089,Content Uniformity (AV),2.429,AV,2024-03-29,S. Patel,Night,HPLC-07,Pass
+446,CTX-50-2407-0090,Assay (% of label claim),95.059,%,2024-07-26,T. Novak,Day,UV-02,Pass
+447,CTX-50-2407-0090,Dissolution Q30 (%),96.665,%,2024-07-26,M. Chen,Day,HPLC-04,Pass
+448,CTX-50-2407-0090,Related Substances - Total Impurities (%),0.351,%,2024-07-26,K. Fischer,Swing,HPLC-04,Pass
+449,CTX-50-2407-0090,Water Content (%),2.744,%,2024-07-26,T. Novak,Day,HPLC-11,Pass
+450,CTX-50-2407-0090,Content Uniformity (AV),2.551,AV,2024-07-26,D. Ibrahim,Day,HPLC-11,Pass
+451,CTX-50-2503-0091,Assay (% of label claim),97.386,%,2025-03-22,J. Alvarez,Day,KF-Titrator-01,Pass
+452,CTX-50-2503-0091,Dissolution Q30 (%),81.496,%,2025-03-22,D. Ibrahim,Swing,HPLC-07,Pass
+453,CTX-50-2503-0091,Related Substances - Total Impurities (%),0.117,%,2025-03-22,M. Chen,Night,UV-02,Pass
+454,CTX-50-2503-0091,Water Content (%),2.465,%,2025-03-22,S. Patel,Swing,Dissolution-Bath-3,Pass
+455,CTX-50-2503-0091,Content Uniformity (AV),5.319,AV,2025-03-22,R. Okafor,Day,HPLC-04,Pass
+456,CTX-50-2502-0092,Assay (% of label claim),99.287,%,2025-02-12,K. Fischer,Night,HPLC-11,Pass
+457,CTX-50-2502-0092,Dissolution Q30 (%),98.469,%,2025-02-12,S. Patel,Day,UV-02,Pass
+458,CTX-50-2502-0092,Related Substances - Total Impurities (%),0.18,%,2025-02-12,K. Fischer,Day,HPLC-07,Pass
+459,CTX-50-2502-0092,Water Content (%),1.874,%,2025-02-12,M. Chen,Night,Dissolution-Bath-3,Pass
+460,CTX-50-2502-0092,Content Uniformity (AV),9.23,AV,2025-02-12,J. Alvarez,Night,HPLC-07,Pass
+461,CTX-50-2403-0093,Assay (% of label claim),99.439,%,2024-03-31,J. Alvarez,Night,HPLC-11,Pass
+462,CTX-50-2403-0093,Dissolution Q30 (%),95.885,%,2024-03-31,M. Chen,Night,HPLC-07,Pass
+463,CTX-50-2403-0093,Related Substances - Total Impurities (%),0.13,%,2024-03-31,S. Patel,Night,Dissolution-Bath-3,Pass
+464,CTX-50-2403-0093,Water Content (%),1.475,%,2024-03-31,J. Alvarez,Day,Dissolution-Bath-3,Pass
+465,CTX-50-2403-0093,Content Uniformity (AV),11.281,AV,2024-03-31,T. Novak,Night,HPLC-04,Pass
+466,CTX-50-2405-0094,Assay (% of label claim),100.916,%,2024-05-12,J. Alvarez,Swing,HPLC-07,Pass
+467,CTX-50-2405-0094,Dissolution Q30 (%),86.743,%,2024-05-12,S. Patel,Night,Dissolution-Bath-3,Pass
+468,CTX-50-2405-0094,Related Substances - Total Impurities (%),0.374,%,2024-05-12,K. Fischer,Night,HPLC-07,Pass
+469,CTX-50-2405-0094,Water Content (%),3.43,%,2024-05-12,S. Patel,Swing,HPLC-11,Pass
+470,CTX-50-2405-0094,Content Uniformity (AV),8.987,AV,2024-05-12,K. Fischer,Night,Dissolution-Bath-3,Pass
+471,CTX-50-2508-0095,Assay (% of label claim),99.471,%,2025-08-31,K. Fischer,Night,HPLC-07,Pass
+472,CTX-50-2508-0095,Dissolution Q30 (%),89.446,%,2025-08-31,M. Chen,Day,Dissolution-Bath-3,Pass
+473,CTX-50-2508-0095,Related Substances - Total Impurities (%),0.079,%,2025-08-31,M. Chen,Night,HPLC-07,Pass
+474,CTX-50-2508-0095,Water Content (%),1.843,%,2025-08-31,M. Chen,Day,HPLC-07,Pass
+475,CTX-50-2508-0095,Content Uniformity (AV),1.806,AV,2025-08-31,R. Okafor,Day,HPLC-07,Pass
+476,CTX-50-2405-0096,Assay (% of label claim),100.619,%,2024-06-02,M. Chen,Night,HPLC-07,Pass
+477,CTX-50-2405-0096,Dissolution Q30 (%),91.194,%,2024-06-02,K. Fischer,Swing,Dissolution-Bath-3,Pass
+478,CTX-50-2405-0096,Related Substances - Total Impurities (%),0.089,%,2024-06-02,K. Fischer,Day,KF-Titrator-01,Pass
+479,CTX-50-2405-0096,Water Content (%),1.355,%,2024-06-02,T. Novak,Swing,HPLC-07,Pass
+480,CTX-50-2405-0096,Content Uniformity (AV),10.124,AV,2024-06-02,M. Chen,Night,UV-02,Pass
+481,CTX-50-2412-0097,Assay (% of label claim),101.088,%,2024-12-28,R. Okafor,Swing,HPLC-07,Pass
+482,CTX-50-2412-0097,Dissolution Q30 (%),94.287,%,2024-12-28,R. Okafor,Swing,HPLC-07,Pass
+483,CTX-50-2412-0097,Related Substances - Total Impurities (%),0.036,%,2024-12-28,M. Chen,Swing,UV-02,Pass
+484,CTX-50-2412-0097,Water Content (%),3.675,%,2024-12-28,R. Okafor,Swing,HPLC-07,Pass
+485,CTX-50-2412-0097,Content Uniformity (AV),8.152,AV,2024-12-28,D. Ibrahim,Swing,HPLC-04,Pass
+486,CTX-50-2507-0098,Assay (% of label claim),106.85,%,2025-07-18,S. Patel,Swing,UV-02,OOS
+487,CTX-50-2507-0098,Dissolution Q30 (%),93.334,%,2025-07-18,T. Novak,Swing,HPLC-04,Pass
+488,CTX-50-2507-0098,Related Substances - Total Impurities (%),0.235,%,2025-07-18,T. Novak,Night,Dissolution-Bath-3,Pass
+489,CTX-50-2507-0098,Water Content (%),2.311,%,2025-07-18,K. Fischer,Day,HPLC-04,Pass
+490,CTX-50-2507-0098,Content Uniformity (AV),10.544,AV,2025-07-18,D. Ibrahim,Day,HPLC-11,Pass
+491,CTX-50-2401-0099,Assay (% of label claim),100.522,%,2024-01-18,K. Fischer,Night,Dissolution-Bath-3,Pass
+492,CTX-50-2401-0099,Dissolution Q30 (%),93.707,%,2024-01-18,K. Fischer,Night,HPLC-11,Pass
+493,CTX-50-2401-0099,Related Substances - Total Impurities (%),-0.075,%,2024-01-18,K. Fischer,Swing,HPLC-11,Pass
+494,CTX-50-2401-0099,Water Content (%),3.03,%,2024-01-18,D. Ibrahim,Swing,HPLC-07,Pass
+495,CTX-50-2401-0099,Content Uniformity (AV),10.534,AV,2024-01-18,J. Alvarez,Night,Dissolution-Bath-3,Pass
+496,CTX-50-2405-0100,Assay (% of label claim),104.286,%,2024-05-26,S. Patel,Swing,UV-02,Pass
+497,CTX-50-2405-0100,Dissolution Q30 (%),97.704,%,2024-05-26,K. Fischer,Day,HPLC-07,Pass
+498,CTX-50-2405-0100,Related Substances - Total Impurities (%),0.145,%,2024-05-26,M. Chen,Day,UV-02,Pass
+499,CTX-50-2405-0100,Water Content (%),0.416,%,2024-05-26,D. Ibrahim,Swing,UV-02,Pass
+500,CTX-50-2405-0100,Content Uniformity (AV),10.216,AV,2024-05-26,K. Fischer,Swing,HPLC-04,Pass
+501,CTX-50-2408-0101,Assay (% of label claim),101.891,%,2024-08-05,S. Patel,Day,HPLC-11,Pass
+502,CTX-50-2408-0101,Dissolution Q30 (%),86.174,%,2024-08-05,J. Alvarez,Night,Dissolution-Bath-3,Pass
+503,CTX-50-2408-0101,Related Substances - Total Impurities (%),0.08,%,2024-08-05,K. Fischer,Day,Dissolution-Bath-3,Pass
+504,CTX-50-2408-0101,Water Content (%),2.639,%,2024-08-05,R. Okafor,Day,UV-02,Pass
+505,CTX-50-2408-0101,Content Uniformity (AV),1.744,AV,2024-08-05,S. Patel,Day,KF-Titrator-01,Pass
+506,CTX-50-2408-0102,Assay (% of label claim),97.979,%,2024-08-08,S. Patel,Night,Dissolution-Bath-3,Pass
+507,CTX-50-2408-0102,Dissolution Q30 (%),102.594,%,2024-08-08,T. Novak,Day,HPLC-04,Pass
+508,CTX-50-2408-0102,Related Substances - Total Impurities (%),0.1,%,2024-08-08,R. Okafor,Night,Dissolution-Bath-3,Pass
+509,CTX-50-2408-0102,Water Content (%),0.44,%,2024-08-08,S. Patel,Night,Dissolution-Bath-3,Pass
+510,CTX-50-2408-0102,Content Uniformity (AV),-0.112,AV,2024-08-08,D. Ibrahim,Swing,KF-Titrator-01,Pass
+511,CTX-50-2409-0103,Assay (% of label claim),100.494,%,2024-09-04,K. Fischer,Day,HPLC-07,Pass
+512,CTX-50-2409-0103,Dissolution Q30 (%),98.788,%,2024-09-04,R. Okafor,Night,KF-Titrator-01,Pass
+513,CTX-50-2409-0103,Related Substances - Total Impurities (%),0.477,%,2024-09-04,M. Chen,Night,UV-02,Pass
+514,CTX-50-2409-0103,Water Content (%),2.333,%,2024-09-04,M. Chen,Night,Dissolution-Bath-3,Pass
+515,CTX-50-2409-0103,Content Uniformity (AV),5.598,AV,2024-09-04,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+516,CTX-50-2507-0104,Assay (% of label claim),98.679,%,2025-07-12,M. Chen,Night,UV-02,Pass
+517,CTX-50-2507-0104,Dissolution Q30 (%),86.211,%,2025-07-12,T. Novak,Night,HPLC-04,Pass
+518,CTX-50-2507-0104,Related Substances - Total Impurities (%),0.283,%,2025-07-12,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+519,CTX-50-2507-0104,Water Content (%),1.511,%,2025-07-12,S. Patel,Day,KF-Titrator-01,Pass
+520,CTX-50-2507-0104,Content Uniformity (AV),2.572,AV,2025-07-12,J. Alvarez,Night,Dissolution-Bath-3,Pass
+521,CTX-50-2403-0105,Assay (% of label claim),97.129,%,2024-03-08,D. Ibrahim,Night,UV-02,Pass
+522,CTX-50-2403-0105,Dissolution Q30 (%),94.684,%,2024-03-08,S. Patel,Day,HPLC-07,Pass
+523,CTX-50-2403-0105,Related Substances - Total Impurities (%),0.134,%,2024-03-08,T. Novak,Day,UV-02,Pass
+524,CTX-50-2403-0105,Water Content (%),1.915,%,2024-03-08,T. Novak,Day,UV-02,Pass
+525,CTX-50-2403-0105,Content Uniformity (AV),4.484,AV,2024-03-08,K. Fischer,Day,UV-02,Pass
+526,CTX-50-2508-0106,Assay (% of label claim),101.563,%,2025-08-21,K. Fischer,Swing,HPLC-07,Pass
+527,CTX-50-2508-0106,Dissolution Q30 (%),88.11,%,2025-08-21,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+528,CTX-50-2508-0106,Related Substances - Total Impurities (%),0.179,%,2025-08-21,R. Okafor,Night,Dissolution-Bath-3,Pass
+529,CTX-50-2508-0106,Water Content (%),1.681,%,2025-08-21,R. Okafor,Night,UV-02,Pass
+530,CTX-50-2508-0106,Content Uniformity (AV),2.598,AV,2025-08-21,T. Novak,Swing,KF-Titrator-01,Pass
+531,CTX-50-2405-0107,Assay (% of label claim),99.513,%,2024-05-14,K. Fischer,Day,HPLC-11,Pass
+532,CTX-50-2405-0107,Dissolution Q30 (%),91.699,%,2024-05-14,T. Novak,Swing,HPLC-04,Pass
+533,CTX-50-2405-0107,Related Substances - Total Impurities (%),0.126,%,2024-05-14,S. Patel,Day,HPLC-04,Pass
+534,CTX-50-2405-0107,Water Content (%),2.352,%,2024-05-14,R. Okafor,Night,Dissolution-Bath-3,Pass
+535,CTX-50-2405-0107,Content Uniformity (AV),8.495,AV,2024-05-14,M. Chen,Night,HPLC-11,Pass
+536,CTX-50-2506-0108,Assay (% of label claim),84.069,%,2025-06-11,S. Patel,Day,HPLC-04,OOS
+537,CTX-50-2506-0108,Dissolution Q30 (%),94.891,%,2025-06-11,D. Ibrahim,Day,HPLC-04,Pass
+538,CTX-50-2506-0108,Related Substances - Total Impurities (%),0.267,%,2025-06-11,T. Novak,Night,Dissolution-Bath-3,Pass
+539,CTX-50-2506-0108,Water Content (%),3.011,%,2025-06-11,K. Fischer,Swing,UV-02,Pass
+540,CTX-50-2506-0108,Content Uniformity (AV),-4.409,AV,2025-06-11,T. Novak,Night,HPLC-04,Pass
+541,CTX-50-2407-0109,Assay (% of label claim),100.779,%,2024-07-09,T. Novak,Night,HPLC-04,Pass
+542,CTX-50-2407-0109,Dissolution Q30 (%),100.699,%,2024-07-09,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+543,CTX-50-2407-0109,Related Substances - Total Impurities (%),0.043,%,2024-07-09,R. Okafor,Swing,HPLC-04,Pass
+544,CTX-50-2407-0109,Water Content (%),1.677,%,2024-07-09,S. Patel,Swing,HPLC-07,Pass
+545,CTX-50-2407-0109,Content Uniformity (AV),-6.922,AV,2024-07-09,J. Alvarez,Night,HPLC-07,Pass
+546,CTX-50-2406-0110,Assay (% of label claim),101.294,%,2024-06-27,R. Okafor,Day,KF-Titrator-01,Pass
+547,CTX-50-2406-0110,Dissolution Q30 (%),71.711,%,2024-06-27,T. Novak,Night,KF-Titrator-01,OOS
+548,CTX-50-2406-0110,Related Substances - Total Impurities (%),0.448,%,2024-06-27,J. Alvarez,Night,HPLC-04,Pass
+549,CTX-50-2406-0110,Water Content (%),2.151,%,2024-06-27,K. Fischer,Day,HPLC-11,Pass
+550,CTX-50-2406-0110,Content Uniformity (AV),-1.389,AV,2024-06-27,D. Ibrahim,Day,HPLC-07,Pass
+551,CTX-50-2509-0111,Assay (% of label claim),100.24,%,2025-09-26,T. Novak,Night,HPLC-07,Pass
+552,CTX-50-2509-0111,Dissolution Q30 (%),85.135,%,2025-09-26,T. Novak,Night,UV-02,Pass
+553,CTX-50-2509-0111,Related Substances - Total Impurities (%),0.098,%,2025-09-26,D. Ibrahim,Swing,KF-Titrator-01,Pass
+554,CTX-50-2509-0111,Water Content (%),0.998,%,2025-09-26,M. Chen,Day,HPLC-11,Pass
+555,CTX-50-2509-0111,Content Uniformity (AV),6.233,AV,2025-09-26,K. Fischer,Swing,UV-02,Pass
+556,CTX-50-2403-0112,Assay (% of label claim),103.524,%,2024-03-08,D. Ibrahim,Swing,HPLC-07,Pass
+557,CTX-50-2403-0112,Dissolution Q30 (%),96.146,%,2024-03-08,R. Okafor,Night,KF-Titrator-01,Pass
+558,CTX-50-2403-0112,Related Substances - Total Impurities (%),0.304,%,2024-03-08,R. Okafor,Day,HPLC-07,Pass
+559,CTX-50-2403-0112,Water Content (%),2.385,%,2024-03-08,T. Novak,Swing,UV-02,Pass
+560,CTX-50-2403-0112,Content Uniformity (AV),5.164,AV,2024-03-08,D. Ibrahim,Night,UV-02,Pass
+561,CTX-50-2506-0113,Assay (% of label claim),99.542,%,2025-06-15,R. Okafor,Night,HPLC-04,Pass
+562,CTX-50-2506-0113,Dissolution Q30 (%),94.364,%,2025-06-15,K. Fischer,Swing,HPLC-07,Pass
+563,CTX-50-2506-0113,Related Substances - Total Impurities (%),0.174,%,2025-06-15,M. Chen,Night,HPLC-11,Pass
+564,CTX-50-2506-0113,Water Content (%),2.693,%,2025-06-15,K. Fischer,Day,HPLC-07,Pass
+565,CTX-50-2506-0113,Content Uniformity (AV),5.896,AV,2025-06-15,J. Alvarez,Day,HPLC-04,Pass
+566,CTX-50-2507-0114,Assay (% of label claim),100.321,%,2025-08-01,M. Chen,Day,HPLC-07,Pass
+567,CTX-50-2507-0114,Dissolution Q30 (%),91.543,%,2025-08-01,R. Okafor,Day,HPLC-07,Pass
+568,CTX-50-2507-0114,Related Substances - Total Impurities (%),0.133,%,2025-08-01,D. Ibrahim,Night,HPLC-04,Pass
+569,CTX-50-2507-0114,Water Content (%),1.126,%,2025-08-01,R. Okafor,Day,HPLC-04,Pass
+570,CTX-50-2507-0114,Content Uniformity (AV),7.253,AV,2025-08-01,D. Ibrahim,Day,HPLC-04,Pass
+571,CTX-50-2407-0115,Assay (% of label claim),97.639,%,2024-07-19,R. Okafor,Swing,HPLC-04,Pass
+572,CTX-50-2407-0115,Dissolution Q30 (%),92.201,%,2024-07-19,R. Okafor,Night,Dissolution-Bath-3,Pass
+573,CTX-50-2407-0115,Related Substances - Total Impurities (%),0.507,%,2024-07-19,T. Novak,Night,Dissolution-Bath-3,OOS
+574,CTX-50-2407-0115,Water Content (%),2.075,%,2024-07-19,M. Chen,Day,KF-Titrator-01,Pass
+575,CTX-50-2407-0115,Content Uniformity (AV),4.621,AV,2024-07-19,J. Alvarez,Swing,HPLC-11,Pass
+576,CTX-50-2404-0116,Assay (% of label claim),98.509,%,2024-04-14,M. Chen,Night,KF-Titrator-01,Pass
+577,CTX-50-2404-0116,Dissolution Q30 (%),84.379,%,2024-04-14,M. Chen,Night,KF-Titrator-01,Pass
+578,CTX-50-2404-0116,Related Substances - Total Impurities (%),0.1,%,2024-04-14,D. Ibrahim,Night,HPLC-11,Pass
+579,CTX-50-2404-0116,Water Content (%),0.846,%,2024-04-14,T. Novak,Night,UV-02,Pass
+580,CTX-50-2404-0116,Content Uniformity (AV),0.955,AV,2024-04-14,R. Okafor,Day,HPLC-11,Pass
+581,CTX-50-2401-0117,Assay (% of label claim),101.644,%,2024-01-30,J. Alvarez,Night,HPLC-11,Pass
+582,CTX-50-2401-0117,Dissolution Q30 (%),89.069,%,2024-01-30,J. Alvarez,Day,KF-Titrator-01,Pass
+583,CTX-50-2401-0117,Related Substances - Total Impurities (%),0.06,%,2024-01-30,J. Alvarez,Night,KF-Titrator-01,Pass
+584,CTX-50-2401-0117,Water Content (%),2.093,%,2024-01-30,T. Novak,Swing,Dissolution-Bath-3,Pass
+585,CTX-50-2401-0117,Content Uniformity (AV),1.062,AV,2024-01-30,M. Chen,Night,HPLC-07,Pass
+586,CTX-50-2411-0118,Assay (% of label claim),100.229,%,2024-12-04,D. Ibrahim,Swing,HPLC-07,Pass
+587,CTX-50-2411-0118,Dissolution Q30 (%),88.918,%,2024-12-04,R. Okafor,Swing,UV-02,Pass
+588,CTX-50-2411-0118,Related Substances - Total Impurities (%),0.157,%,2024-12-04,K. Fischer,Night,HPLC-04,Pass
+589,CTX-50-2411-0118,Water Content (%),1.843,%,2024-12-04,K. Fischer,Swing,Dissolution-Bath-3,Pass
+590,CTX-50-2411-0118,Content Uniformity (AV),8.614,AV,2024-12-04,S. Patel,Swing,Dissolution-Bath-3,Pass
+591,CTX-50-2410-0119,Assay (% of label claim),100.83,%,2024-10-12,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+592,CTX-50-2410-0119,Dissolution Q30 (%),92.33,%,2024-10-12,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+593,CTX-50-2410-0119,Related Substances - Total Impurities (%),0.232,%,2024-10-12,S. Patel,Day,KF-Titrator-01,Pass
+594,CTX-50-2410-0119,Water Content (%),0.385,%,2024-10-12,D. Ibrahim,Swing,HPLC-07,Pass
+595,CTX-50-2410-0119,Content Uniformity (AV),5.272,AV,2024-10-12,R. Okafor,Day,HPLC-11,Pass
+596,CTX-50-2506-0120,Assay (% of label claim),100.805,%,2025-07-01,K. Fischer,Night,KF-Titrator-01,Pass
+597,CTX-50-2506-0120,Dissolution Q30 (%),80.571,%,2025-07-01,J. Alvarez,Day,Dissolution-Bath-3,Pass
+598,CTX-50-2506-0120,Related Substances - Total Impurities (%),0.104,%,2025-07-01,D. Ibrahim,Swing,HPLC-07,Pass
+599,CTX-50-2506-0120,Water Content (%),3.048,%,2025-07-01,K. Fischer,Day,HPLC-04,Pass
+600,CTX-50-2506-0120,Content Uniformity (AV),10.952,AV,2025-07-01,J. Alvarez,Day,HPLC-11,Pass
+601,DLV-10-2409-0121,Assay (% of label claim),98.259,%,2024-09-12,S. Patel,Night,UV-02,Pass
+602,DLV-10-2409-0121,Dissolution Q30 (%),97.625,%,2024-09-12,R. Okafor,Night,Dissolution-Bath-3,Pass
+603,DLV-10-2409-0121,Related Substances - Total Impurities (%),0.402,%,2024-09-12,J. Alvarez,Night,HPLC-07,Pass
+604,DLV-10-2409-0121,Water Content (%),0.68,%,2024-09-12,K. Fischer,Night,HPLC-04,Pass
+605,DLV-10-2409-0121,Content Uniformity (AV),1.206,AV,2024-09-12,S. Patel,Night,HPLC-04,Pass
+606,DLV-10-2407-0122,Assay (% of label claim),99.962,%,2024-07-27,R. Okafor,Day,HPLC-04,Pass
+607,DLV-10-2407-0122,Dissolution Q30 (%),89.738,%,2024-07-27,S. Patel,Day,HPLC-07,Pass
+608,DLV-10-2407-0122,Related Substances - Total Impurities (%),0.155,%,2024-07-27,T. Novak,Day,Dissolution-Bath-3,Pass
+609,DLV-10-2407-0122,Water Content (%),1.658,%,2024-07-27,R. Okafor,Swing,HPLC-04,Pass
+610,DLV-10-2407-0122,Content Uniformity (AV),3.991,AV,2024-07-27,M. Chen,Day,Dissolution-Bath-3,Pass
+611,DLV-10-2503-0123,Assay (% of label claim),100.606,%,2025-03-03,J. Alvarez,Day,HPLC-07,Pass
+612,DLV-10-2503-0123,Dissolution Q30 (%),94.955,%,2025-03-03,S. Patel,Night,HPLC-11,Pass
+613,DLV-10-2503-0123,Related Substances - Total Impurities (%),0.134,%,2025-03-03,S. Patel,Night,HPLC-11,Pass
+614,DLV-10-2503-0123,Water Content (%),2.181,%,2025-03-03,K. Fischer,Swing,Dissolution-Bath-3,Pass
+615,DLV-10-2503-0123,Content Uniformity (AV),1.282,AV,2025-03-03,S. Patel,Swing,HPLC-07,Pass
+616,DLV-10-2503-0124,Assay (% of label claim),100.906,%,2025-04-01,S. Patel,Day,Dissolution-Bath-3,Pass
+617,DLV-10-2503-0124,Dissolution Q30 (%),84.527,%,2025-04-01,R. Okafor,Night,KF-Titrator-01,Pass
+618,DLV-10-2503-0124,Related Substances - Total Impurities (%),-0.025,%,2025-04-01,M. Chen,Day,Dissolution-Bath-3,Pass
+619,DLV-10-2503-0124,Water Content (%),2.676,%,2025-04-01,K. Fischer,Day,UV-02,Pass
+620,DLV-10-2503-0124,Content Uniformity (AV),-1.62,AV,2025-04-01,R. Okafor,Night,Dissolution-Bath-3,Pass
+621,DLV-10-2409-0125,Assay (% of label claim),98.128,%,2024-09-07,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+622,DLV-10-2409-0125,Dissolution Q30 (%),102.271,%,2024-09-07,S. Patel,Night,HPLC-11,Pass
+623,DLV-10-2409-0125,Related Substances - Total Impurities (%),0.239,%,2024-09-07,K. Fischer,Night,UV-02,Pass
+624,DLV-10-2409-0125,Water Content (%),1.983,%,2024-09-07,J. Alvarez,Swing,KF-Titrator-01,Pass
+625,DLV-10-2409-0125,Content Uniformity (AV),0.126,AV,2024-09-07,J. Alvarez,Night,KF-Titrator-01,Pass
+626,DLV-10-2408-0126,Assay (% of label claim),104.402,%,2024-08-07,R. Okafor,Swing,Dissolution-Bath-3,Pass
+627,DLV-10-2408-0126,Dissolution Q30 (%),85.377,%,2024-08-07,T. Novak,Swing,KF-Titrator-01,Pass
+628,DLV-10-2408-0126,Related Substances - Total Impurities (%),0.326,%,2024-08-07,T. Novak,Swing,KF-Titrator-01,Pass
+629,DLV-10-2408-0126,Water Content (%),3.248,%,2024-08-07,M. Chen,Swing,HPLC-07,Pass
+630,DLV-10-2408-0126,Content Uniformity (AV),7.261,AV,2024-08-07,M. Chen,Night,Dissolution-Bath-3,Pass
+631,DLV-10-2406-0127,Assay (% of label claim),102.108,%,2024-06-08,R. Okafor,Swing,HPLC-04,Pass
+632,DLV-10-2406-0127,Dissolution Q30 (%),90.805,%,2024-06-08,R. Okafor,Swing,Dissolution-Bath-3,Pass
+633,DLV-10-2406-0127,Related Substances - Total Impurities (%),0.036,%,2024-06-08,T. Novak,Swing,UV-02,Pass
+634,DLV-10-2406-0127,Water Content (%),1.909,%,2024-06-08,S. Patel,Night,HPLC-04,Pass
+635,DLV-10-2406-0127,Content Uniformity (AV),7.15,AV,2024-06-08,S. Patel,Night,HPLC-07,Pass
+636,DLV-10-2409-0128,Assay (% of label claim),99.289,%,2024-09-21,T. Novak,Night,HPLC-07,Pass
+637,DLV-10-2409-0128,Dissolution Q30 (%),88.364,%,2024-09-21,T. Novak,Swing,UV-02,Pass
+638,DLV-10-2409-0128,Related Substances - Total Impurities (%),0.145,%,2024-09-21,R. Okafor,Day,KF-Titrator-01,Pass
+639,DLV-10-2409-0128,Water Content (%),1.99,%,2024-09-21,K. Fischer,Night,HPLC-11,Pass
+640,DLV-10-2409-0128,Content Uniformity (AV),14.414,AV,2024-09-21,R. Okafor,Swing,HPLC-04,Pass
+641,DLV-10-2408-0129,Assay (% of label claim),100.742,%,2024-08-17,S. Patel,Swing,KF-Titrator-01,Pass
+642,DLV-10-2408-0129,Dissolution Q30 (%),89.815,%,2024-08-17,J. Alvarez,Night,UV-02,Pass
+643,DLV-10-2408-0129,Related Substances - Total Impurities (%),0.348,%,2024-08-17,S. Patel,Swing,Dissolution-Bath-3,Pass
+644,DLV-10-2408-0129,Water Content (%),2.304,%,2024-08-17,R. Okafor,Swing,HPLC-07,Pass
+645,DLV-10-2408-0129,Content Uniformity (AV),-3.71,AV,2024-08-17,M. Chen,Night,KF-Titrator-01,Pass
+646,DLV-10-2505-0130,Assay (% of label claim),98.111,%,2025-05-16,M. Chen,Swing,HPLC-04,Pass
+647,DLV-10-2505-0130,Dissolution Q30 (%),88.045,%,2025-05-16,S. Patel,Swing,Dissolution-Bath-3,Pass
+648,DLV-10-2505-0130,Related Substances - Total Impurities (%),0.191,%,2025-05-16,J. Alvarez,Day,KF-Titrator-01,Pass
+649,DLV-10-2505-0130,Water Content (%),2.998,%,2025-05-16,S. Patel,Swing,UV-02,Pass
+650,DLV-10-2505-0130,Content Uniformity (AV),1.626,AV,2025-05-16,J. Alvarez,Swing,UV-02,Pass
+651,DLV-10-2408-0131,Assay (% of label claim),100.004,%,2024-08-21,M. Chen,Night,HPLC-07,Pass
+652,DLV-10-2408-0131,Dissolution Q30 (%),91.419,%,2024-08-21,J. Alvarez,Night,HPLC-11,Pass
+653,DLV-10-2408-0131,Related Substances - Total Impurities (%),0.175,%,2024-08-21,J. Alvarez,Day,HPLC-07,Pass
+654,DLV-10-2408-0131,Water Content (%),0.809,%,2024-08-21,T. Novak,Day,HPLC-04,Pass
+655,DLV-10-2408-0131,Content Uniformity (AV),5.552,AV,2024-08-21,S. Patel,Day,Dissolution-Bath-3,Pass
+656,DLV-10-2503-0132,Assay (% of label claim),99.005,%,2025-03-19,S. Patel,Day,KF-Titrator-01,Pass
+657,DLV-10-2503-0132,Dissolution Q30 (%),87.161,%,2025-03-19,S. Patel,Day,Dissolution-Bath-3,Pass
+658,DLV-10-2503-0132,Related Substances - Total Impurities (%),0.23,%,2025-03-19,R. Okafor,Day,KF-Titrator-01,Pass
+659,DLV-10-2503-0132,Water Content (%),4.092,%,2025-03-19,T. Novak,Swing,KF-Titrator-01,OOS
+660,DLV-10-2503-0132,Content Uniformity (AV),2.86,AV,2025-03-19,D. Ibrahim,Swing,KF-Titrator-01,Pass
+661,DLV-10-2503-0133,Assay (% of label claim),101.239,%,2025-03-11,S. Patel,Night,HPLC-04,Pass
+662,DLV-10-2503-0133,Dissolution Q30 (%),92.038,%,2025-03-11,S. Patel,Night,HPLC-11,Pass
+663,DLV-10-2503-0133,Related Substances - Total Impurities (%),0.27,%,2025-03-11,M. Chen,Day,HPLC-07,Pass
+664,DLV-10-2503-0133,Water Content (%),1.451,%,2025-03-11,S. Patel,Night,KF-Titrator-01,Pass
+665,DLV-10-2503-0133,Content Uniformity (AV),7.064,AV,2025-03-11,D. Ibrahim,Swing,HPLC-07,Pass
+666,DLV-10-2411-0134,Assay (% of label claim),104.539,%,2024-11-26,J. Alvarez,Night,HPLC-11,Pass
+667,DLV-10-2411-0134,Dissolution Q30 (%),101.411,%,2024-11-26,D. Ibrahim,Swing,HPLC-04,Pass
+668,DLV-10-2411-0134,Related Substances - Total Impurities (%),0.274,%,2024-11-26,D. Ibrahim,Swing,HPLC-11,Pass
+669,DLV-10-2411-0134,Water Content (%),2.476,%,2024-11-26,T. Novak,Swing,UV-02,Pass
+670,DLV-10-2411-0134,Content Uniformity (AV),14.144,AV,2024-11-26,M. Chen,Day,HPLC-07,Pass
+671,DLV-10-2501-0135,Assay (% of label claim),104.555,%,2025-01-13,J. Alvarez,Day,HPLC-07,Pass
+672,DLV-10-2501-0135,Dissolution Q30 (%),97.089,%,2025-01-13,M. Chen,Day,Dissolution-Bath-3,Pass
+673,DLV-10-2501-0135,Related Substances - Total Impurities (%),0.222,%,2025-01-13,D. Ibrahim,Day,UV-02,Pass
+674,DLV-10-2501-0135,Water Content (%),1.785,%,2025-01-13,D. Ibrahim,Day,KF-Titrator-01,Pass
+675,DLV-10-2501-0135,Content Uniformity (AV),-2.288,AV,2025-01-13,M. Chen,Night,HPLC-07,Pass
+676,DLV-10-2507-0136,Assay (% of label claim),102.532,%,2025-07-26,J. Alvarez,Swing,HPLC-07,Pass
+677,DLV-10-2507-0136,Dissolution Q30 (%),96.144,%,2025-07-26,R. Okafor,Night,UV-02,Pass
+678,DLV-10-2507-0136,Related Substances - Total Impurities (%),0.174,%,2025-07-26,K. Fischer,Day,HPLC-04,Pass
+679,DLV-10-2507-0136,Water Content (%),2.198,%,2025-07-26,S. Patel,Swing,HPLC-07,Pass
+680,DLV-10-2507-0136,Content Uniformity (AV),5.763,AV,2025-07-26,K. Fischer,Day,HPLC-11,Pass
+681,DLV-10-2401-0137,Assay (% of label claim),97.378,%,2024-01-22,D. Ibrahim,Day,HPLC-07,Pass
+682,DLV-10-2401-0137,Dissolution Q30 (%),81.278,%,2024-01-22,M. Chen,Swing,HPLC-04,Pass
+683,DLV-10-2401-0137,Related Substances - Total Impurities (%),0.207,%,2024-01-22,K. Fischer,Night,Dissolution-Bath-3,Pass
+684,DLV-10-2401-0137,Water Content (%),2.482,%,2024-01-22,S. Patel,Day,Dissolution-Bath-3,Pass
+685,DLV-10-2401-0137,Content Uniformity (AV),2.053,AV,2024-01-22,J. Alvarez,Swing,HPLC-04,Pass
+686,DLV-10-2506-0138,Assay (% of label claim),87.25,%,2025-06-15,R. Okafor,Swing,HPLC-11,OOS
+687,DLV-10-2506-0138,Dissolution Q30 (%),95.687,%,2025-06-15,D. Ibrahim,Swing,HPLC-04,Pass
+688,DLV-10-2506-0138,Related Substances - Total Impurities (%),0.13,%,2025-06-15,T. Novak,Night,HPLC-04,Pass
+689,DLV-10-2506-0138,Water Content (%),2.584,%,2025-06-15,S. Patel,Swing,HPLC-07,Pass
+690,DLV-10-2506-0138,Content Uniformity (AV),2.437,AV,2025-06-15,J. Alvarez,Day,HPLC-11,Pass
+691,DLV-10-2403-0139,Assay (% of label claim),104.473,%,2024-03-08,J. Alvarez,Day,HPLC-11,Pass
+692,DLV-10-2403-0139,Dissolution Q30 (%),97.264,%,2024-03-08,S. Patel,Day,HPLC-11,Pass
+693,DLV-10-2403-0139,Related Substances - Total Impurities (%),0.243,%,2024-03-08,R. Okafor,Day,Dissolution-Bath-3,Pass
+694,DLV-10-2403-0139,Water Content (%),3.111,%,2024-03-08,J. Alvarez,Night,KF-Titrator-01,Pass
+695,DLV-10-2403-0139,Content Uniformity (AV),6.034,AV,2024-03-08,J. Alvarez,Day,HPLC-04,Pass
+696,DLV-10-2404-0140,Assay (% of label claim),101.485,%,2024-04-22,S. Patel,Night,Dissolution-Bath-3,Pass
+697,DLV-10-2404-0140,Dissolution Q30 (%),88.543,%,2024-04-22,R. Okafor,Night,Dissolution-Bath-3,Pass
+698,DLV-10-2404-0140,Related Substances - Total Impurities (%),0.096,%,2024-04-22,R. Okafor,Day,Dissolution-Bath-3,Pass
+699,DLV-10-2404-0140,Water Content (%),3.874,%,2024-04-22,D. Ibrahim,Night,UV-02,Pass
+700,DLV-10-2404-0140,Content Uniformity (AV),3.871,AV,2024-04-22,M. Chen,Day,HPLC-07,Pass
+701,DLV-10-2410-0141,Assay (% of label claim),100.829,%,2024-10-09,T. Novak,Day,HPLC-11,Pass
+702,DLV-10-2410-0141,Dissolution Q30 (%),94.675,%,2024-10-09,T. Novak,Swing,HPLC-11,Pass
+703,DLV-10-2410-0141,Related Substances - Total Impurities (%),0.48,%,2024-10-09,T. Novak,Day,HPLC-07,Pass
+704,DLV-10-2410-0141,Water Content (%),3.771,%,2024-10-09,T. Novak,Night,HPLC-07,Pass
+705,DLV-10-2410-0141,Content Uniformity (AV),8.089,AV,2024-10-09,J. Alvarez,Day,HPLC-04,Pass
+706,DLV-10-2410-0142,Assay (% of label claim),99.638,%,2024-10-07,K. Fischer,Day,HPLC-04,Pass
+707,DLV-10-2410-0142,Dissolution Q30 (%),89.243,%,2024-10-07,M. Chen,Swing,HPLC-04,Pass
+708,DLV-10-2410-0142,Related Substances - Total Impurities (%),0.108,%,2024-10-07,T. Novak,Day,HPLC-04,Pass
+709,DLV-10-2410-0142,Water Content (%),1.763,%,2024-10-07,M. Chen,Day,HPLC-07,Pass
+710,DLV-10-2410-0142,Content Uniformity (AV),5.286,AV,2024-10-07,J. Alvarez,Day,HPLC-04,Pass
+711,DLV-10-2409-0143,Assay (% of label claim),97.306,%,2024-09-26,J. Alvarez,Day,HPLC-07,Pass
+712,DLV-10-2409-0143,Dissolution Q30 (%),89.244,%,2024-09-26,R. Okafor,Day,UV-02,Pass
+713,DLV-10-2409-0143,Related Substances - Total Impurities (%),-0.06,%,2024-09-26,M. Chen,Day,HPLC-11,Pass
+714,DLV-10-2409-0143,Water Content (%),3.853,%,2024-09-26,S. Patel,Day,HPLC-04,Pass
+715,DLV-10-2409-0143,Content Uniformity (AV),6.754,AV,2024-09-26,M. Chen,Day,HPLC-11,Pass
+716,DLV-10-2507-0144,Assay (% of label claim),101.679,%,2025-07-05,M. Chen,Night,HPLC-11,Pass
+717,DLV-10-2507-0144,Dissolution Q30 (%),92.29,%,2025-07-05,S. Patel,Day,UV-02,Pass
+718,DLV-10-2507-0144,Related Substances - Total Impurities (%),0.154,%,2025-07-05,R. Okafor,Day,KF-Titrator-01,Pass
+719,DLV-10-2507-0144,Water Content (%),2.309,%,2025-07-05,D. Ibrahim,Swing,UV-02,Pass
+720,DLV-10-2507-0144,Content Uniformity (AV),9.119,AV,2025-07-05,K. Fischer,Swing,KF-Titrator-01,Pass
+721,DLV-10-2411-0145,Assay (% of label claim),96.994,%,2024-12-02,S. Patel,Day,HPLC-11,Pass
+722,DLV-10-2411-0145,Dissolution Q30 (%),92.338,%,2024-12-02,R. Okafor,Day,Dissolution-Bath-3,Pass
+723,DLV-10-2411-0145,Related Substances - Total Impurities (%),0.194,%,2024-12-02,M. Chen,Swing,UV-02,Pass
+724,DLV-10-2411-0145,Water Content (%),0.974,%,2024-12-02,D. Ibrahim,Night,HPLC-11,Pass
+725,DLV-10-2411-0145,Content Uniformity (AV),-0.675,AV,2024-12-02,K. Fischer,Day,HPLC-04,Pass
+726,DLV-10-2402-0146,Assay (% of label claim),98.583,%,2024-03-02,D. Ibrahim,Day,HPLC-07,Pass
+727,DLV-10-2402-0146,Dissolution Q30 (%),89.021,%,2024-03-02,S. Patel,Night,Dissolution-Bath-3,Pass
+728,DLV-10-2402-0146,Related Substances - Total Impurities (%),0.174,%,2024-03-02,J. Alvarez,Swing,Dissolution-Bath-3,Pass
+729,DLV-10-2402-0146,Water Content (%),2.287,%,2024-03-02,R. Okafor,Swing,UV-02,Pass
+730,DLV-10-2402-0146,Content Uniformity (AV),14.453,AV,2024-03-02,K. Fischer,Swing,Dissolution-Bath-3,Pass
+731,DLV-10-2403-0147,Assay (% of label claim),104.623,%,2024-03-20,R. Okafor,Day,HPLC-11,Pass
+732,DLV-10-2403-0147,Dissolution Q30 (%),85.873,%,2024-03-20,J. Alvarez,Day,UV-02,Pass
+733,DLV-10-2403-0147,Related Substances - Total Impurities (%),0.043,%,2024-03-20,R. Okafor,Night,HPLC-07,Pass
+734,DLV-10-2403-0147,Water Content (%),1.526,%,2024-03-20,S. Patel,Swing,KF-Titrator-01,Pass
+735,DLV-10-2403-0147,Content Uniformity (AV),-2.181,AV,2024-03-20,M. Chen,Night,UV-02,Pass
+736,DLV-10-2510-0148,Assay (% of label claim),104.695,%,2025-10-15,D. Ibrahim,Day,HPLC-04,Pass
+737,DLV-10-2510-0148,Dissolution Q30 (%),89.157,%,2025-10-15,M. Chen,Swing,HPLC-11,Pass
+738,DLV-10-2510-0148,Related Substances - Total Impurities (%),0.065,%,2025-10-15,M. Chen,Swing,HPLC-07,Pass
+739,DLV-10-2510-0148,Water Content (%),2.74,%,2025-10-15,S. Patel,Swing,UV-02,Pass
+740,DLV-10-2510-0148,Content Uniformity (AV),0.627,AV,2025-10-15,T. Novak,Night,HPLC-07,Pass
+741,DLV-10-2403-0149,Assay (% of label claim),103.424,%,2024-03-28,J. Alvarez,Day,UV-02,Pass
+742,DLV-10-2403-0149,Dissolution Q30 (%),92.468,%,2024-03-28,K. Fischer,Swing,Dissolution-Bath-3,Pass
+743,DLV-10-2403-0149,Related Substances - Total Impurities (%),0.275,%,2024-03-28,D. Ibrahim,Night,Dissolution-Bath-3,Pass
+744,DLV-10-2403-0149,Water Content (%),2.526,%,2024-03-28,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+745,DLV-10-2403-0149,Content Uniformity (AV),0.561,AV,2024-03-28,R. Okafor,Swing,HPLC-11,Pass
+746,DLV-10-2409-0150,Assay (% of label claim),99.859,%,2024-09-30,K. Fischer,Night,UV-02,Pass
+747,DLV-10-2409-0150,Dissolution Q30 (%),81.502,%,2024-09-30,J. Alvarez,Night,UV-02,Pass
+748,DLV-10-2409-0150,Related Substances - Total Impurities (%),0.142,%,2024-09-30,D. Ibrahim,Night,HPLC-04,Pass
+749,DLV-10-2409-0150,Water Content (%),1.875,%,2024-09-30,S. Patel,Swing,KF-Titrator-01,Pass
+750,DLV-10-2409-0150,Content Uniformity (AV),3.151,AV,2024-09-30,J. Alvarez,Swing,UV-02,Pass
+751,DLV-10-2401-0151,Assay (% of label claim),97.112,%,2024-01-14,R. Okafor,Day,HPLC-07,Pass
+752,DLV-10-2401-0151,Dissolution Q30 (%),90.85,%,2024-01-14,S. Patel,Day,Dissolution-Bath-3,Pass
+753,DLV-10-2401-0151,Related Substances - Total Impurities (%),0.132,%,2024-01-14,R. Okafor,Night,HPLC-07,Pass
+754,DLV-10-2401-0151,Water Content (%),1.297,%,2024-01-14,S. Patel,Night,HPLC-04,Pass
+755,DLV-10-2401-0151,Content Uniformity (AV),2.895,AV,2024-01-14,K. Fischer,Night,UV-02,Pass
+756,DLV-10-2503-0152,Assay (% of label claim),104.439,%,2025-03-07,K. Fischer,Swing,HPLC-11,Pass
+757,DLV-10-2503-0152,Dissolution Q30 (%),85.007,%,2025-03-07,D. Ibrahim,Night,HPLC-11,Pass
+758,DLV-10-2503-0152,Related Substances - Total Impurities (%),0.046,%,2025-03-07,M. Chen,Night,HPLC-04,Pass
+759,DLV-10-2503-0152,Water Content (%),1.969,%,2025-03-07,R. Okafor,Day,KF-Titrator-01,Pass
+760,DLV-10-2503-0152,Content Uniformity (AV),1.651,AV,2025-03-07,S. Patel,Swing,Dissolution-Bath-3,Pass
+761,DLV-10-2405-0153,Assay (% of label claim),101.54,%,2024-05-14,T. Novak,Swing,UV-02,Pass
+762,DLV-10-2405-0153,Dissolution Q30 (%),88.991,%,2024-05-14,K. Fischer,Swing,HPLC-11,Pass
+763,DLV-10-2405-0153,Related Substances - Total Impurities (%),-0.087,%,2024-05-14,R. Okafor,Day,HPLC-07,Pass
+764,DLV-10-2405-0153,Water Content (%),3.798,%,2024-05-14,T. Novak,Swing,Dissolution-Bath-3,Pass
+765,DLV-10-2405-0153,Content Uniformity (AV),10.53,AV,2024-05-14,R. Okafor,Day,HPLC-07,Pass
+766,DLV-10-2409-0154,Assay (% of label claim),97.801,%,2024-09-04,K. Fischer,Swing,HPLC-04,Pass
+767,DLV-10-2409-0154,Dissolution Q30 (%),92.999,%,2024-09-04,R. Okafor,Night,UV-02,Pass
+768,DLV-10-2409-0154,Related Substances - Total Impurities (%),0.109,%,2024-09-04,R. Okafor,Swing,HPLC-04,Pass
+769,DLV-10-2409-0154,Water Content (%),2.959,%,2024-09-04,D. Ibrahim,Night,KF-Titrator-01,Pass
+770,DLV-10-2409-0154,Content Uniformity (AV),1.087,AV,2024-09-04,M. Chen,Day,KF-Titrator-01,Pass
+771,DLV-10-2409-0155,Assay (% of label claim),99.011,%,2024-09-26,K. Fischer,Swing,Dissolution-Bath-3,Pass
+772,DLV-10-2409-0155,Dissolution Q30 (%),89.884,%,2024-09-26,K. Fischer,Night,Dissolution-Bath-3,Pass
+773,DLV-10-2409-0155,Related Substances - Total Impurities (%),0.315,%,2024-09-26,D. Ibrahim,Swing,UV-02,Pass
+774,DLV-10-2409-0155,Water Content (%),2.331,%,2024-09-26,S. Patel,Swing,UV-02,Pass
+775,DLV-10-2409-0155,Content Uniformity (AV),-3.132,AV,2024-09-26,R. Okafor,Day,Dissolution-Bath-3,Pass
+776,DLV-10-2407-0156,Assay (% of label claim),97.419,%,2024-07-27,R. Okafor,Day,HPLC-07,Pass
+777,DLV-10-2407-0156,Dissolution Q30 (%),91.17,%,2024-07-27,J. Alvarez,Swing,HPLC-04,Pass
+778,DLV-10-2407-0156,Related Substances - Total Impurities (%),0.259,%,2024-07-27,T. Novak,Swing,UV-02,Pass
+779,DLV-10-2407-0156,Water Content (%),1.167,%,2024-07-27,K. Fischer,Swing,Dissolution-Bath-3,Pass
+780,DLV-10-2407-0156,Content Uniformity (AV),5.162,AV,2024-07-27,K. Fischer,Day,KF-Titrator-01,Pass
+781,DLV-10-2411-0157,Assay (% of label claim),99.149,%,2024-11-09,J. Alvarez,Night,Dissolution-Bath-3,Pass
+782,DLV-10-2411-0157,Dissolution Q30 (%),90.585,%,2024-11-09,K. Fischer,Swing,KF-Titrator-01,Pass
+783,DLV-10-2411-0157,Related Substances - Total Impurities (%),0.322,%,2024-11-09,K. Fischer,Day,KF-Titrator-01,Pass
+784,DLV-10-2411-0157,Water Content (%),1.044,%,2024-11-09,M. Chen,Swing,HPLC-04,Pass
+785,DLV-10-2411-0157,Content Uniformity (AV),3.7,AV,2024-11-09,T. Novak,Day,HPLC-11,Pass
+786,DLV-10-2504-0158,Assay (% of label claim),103.004,%,2025-04-02,R. Okafor,Day,HPLC-04,Pass
+787,DLV-10-2504-0158,Dissolution Q30 (%),95.515,%,2025-04-02,D. Ibrahim,Day,UV-02,Pass
+788,DLV-10-2504-0158,Related Substances - Total Impurities (%),0.274,%,2025-04-02,T. Novak,Night,HPLC-04,Pass
+789,DLV-10-2504-0158,Water Content (%),2.276,%,2025-04-02,D. Ibrahim,Swing,HPLC-04,Pass
+790,DLV-10-2504-0158,Content Uniformity (AV),1.526,AV,2025-04-02,R. Okafor,Night,KF-Titrator-01,Pass
+791,DLV-10-2412-0159,Assay (% of label claim),103.949,%,2024-12-23,D. Ibrahim,Day,HPLC-11,Pass
+792,DLV-10-2412-0159,Dissolution Q30 (%),93.88,%,2024-12-23,J. Alvarez,Day,HPLC-07,Pass
+793,DLV-10-2412-0159,Related Substances - Total Impurities (%),0.008,%,2024-12-23,T. Novak,Swing,UV-02,Pass
+794,DLV-10-2412-0159,Water Content (%),2.537,%,2024-12-23,J. Alvarez,Night,HPLC-04,Pass
+795,DLV-10-2412-0159,Content Uniformity (AV),3.132,AV,2024-12-23,T. Novak,Night,UV-02,Pass
+796,DLV-10-2402-0160,Assay (% of label claim),100.432,%,2024-02-09,R. Okafor,Night,HPLC-11,Pass
+797,DLV-10-2402-0160,Dissolution Q30 (%),91.047,%,2024-02-09,R. Okafor,Day,Dissolution-Bath-3,Pass
+798,DLV-10-2402-0160,Related Substances - Total Impurities (%),0.24,%,2024-02-09,K. Fischer,Night,KF-Titrator-01,Pass
+799,DLV-10-2402-0160,Water Content (%),2.574,%,2024-02-09,R. Okafor,Night,HPLC-07,Pass
+800,DLV-10-2402-0160,Content Uniformity (AV),7.289,AV,2024-02-09,J. Alvarez,Night,KF-Titrator-01,Pass
+801,ERN-500-2506-0161,Assay (% of label claim),102.549,%,2025-06-02,M. Chen,Night,Dissolution-Bath-3,Pass
+802,ERN-500-2506-0161,Dissolution Q30 (%),91.473,%,2025-06-02,K. Fischer,Swing,Dissolution-Bath-3,Pass
+803,ERN-500-2506-0161,Related Substances - Total Impurities (%),0.306,%,2025-06-02,J. Alvarez,Night,Dissolution-Bath-3,Pass
+804,ERN-500-2506-0161,Water Content (%),2.651,%,2025-06-02,S. Patel,Day,Dissolution-Bath-3,Pass
+805,ERN-500-2506-0161,Content Uniformity (AV),4.356,AV,2025-06-02,K. Fischer,Night,HPLC-11,Pass
+806,ERN-500-2505-0162,Assay (% of label claim),101.278,%,2025-05-06,R. Okafor,Swing,HPLC-04,Pass
+807,ERN-500-2505-0162,Dissolution Q30 (%),97.087,%,2025-05-06,M. Chen,Night,HPLC-11,Pass
+808,ERN-500-2505-0162,Related Substances - Total Impurities (%),0.34,%,2025-05-06,D. Ibrahim,Day,HPLC-11,Pass
+809,ERN-500-2505-0162,Water Content (%),2.203,%,2025-05-06,M. Chen,Swing,UV-02,Pass
+810,ERN-500-2505-0162,Content Uniformity (AV),7.033,AV,2025-05-06,R. Okafor,Swing,HPLC-07,Pass
+811,ERN-500-2404-0163,Assay (% of label claim),100.789,%,2024-04-19,R. Okafor,Night,UV-02,Pass
+812,ERN-500-2404-0163,Dissolution Q30 (%),91.989,%,2024-04-19,M. Chen,Night,HPLC-11,Pass
+813,ERN-500-2404-0163,Related Substances - Total Impurities (%),0.448,%,2024-04-19,S. Patel,Night,Dissolution-Bath-3,Pass
+814,ERN-500-2404-0163,Water Content (%),2.145,%,2024-04-19,D. Ibrahim,Swing,HPLC-07,Pass
+815,ERN-500-2404-0163,Content Uniformity (AV),8.758,AV,2024-04-19,T. Novak,Swing,HPLC-04,Pass
+816,ERN-500-2505-0164,Assay (% of label claim),101.815,%,2025-05-22,D. Ibrahim,Day,UV-02,Pass
+817,ERN-500-2505-0164,Dissolution Q30 (%),93.563,%,2025-05-22,J. Alvarez,Swing,HPLC-11,Pass
+818,ERN-500-2505-0164,Related Substances - Total Impurities (%),0.303,%,2025-05-22,S. Patel,Swing,Dissolution-Bath-3,Pass
+819,ERN-500-2505-0164,Water Content (%),3.958,%,2025-05-22,M. Chen,Swing,UV-02,Pass
+820,ERN-500-2505-0164,Content Uniformity (AV),10.44,AV,2025-05-22,M. Chen,Swing,UV-02,Pass
+821,ERN-500-2411-0165,Assay (% of label claim),102.073,%,2024-11-16,K. Fischer,Night,Dissolution-Bath-3,Pass
+822,ERN-500-2411-0165,Dissolution Q30 (%),81.428,%,2024-11-16,T. Novak,Night,Dissolution-Bath-3,Pass
+823,ERN-500-2411-0165,Related Substances - Total Impurities (%),0.028,%,2024-11-16,K. Fischer,Night,HPLC-07,Pass
+824,ERN-500-2411-0165,Water Content (%),2.13,%,2024-11-16,S. Patel,Night,UV-02,Pass
+825,ERN-500-2411-0165,Content Uniformity (AV),7.326,AV,2024-11-16,S. Patel,Day,Dissolution-Bath-3,Pass
+826,ERN-500-2412-0166,Assay (% of label claim),101.391,%,2024-12-18,M. Chen,Day,UV-02,Pass
+827,ERN-500-2412-0166,Dissolution Q30 (%),91.91,%,2024-12-18,K. Fischer,Night,Dissolution-Bath-3,Pass
+828,ERN-500-2412-0166,Related Substances - Total Impurities (%),0.063,%,2024-12-18,J. Alvarez,Day,HPLC-04,Pass
+829,ERN-500-2412-0166,Water Content (%),2.495,%,2024-12-18,M. Chen,Night,HPLC-04,Pass
+830,ERN-500-2412-0166,Content Uniformity (AV),13.867,AV,2024-12-18,S. Patel,Swing,HPLC-04,Pass
+831,ERN-500-2510-0167,Assay (% of label claim),100.391,%,2025-10-15,S. Patel,Day,Dissolution-Bath-3,Pass
+832,ERN-500-2510-0167,Dissolution Q30 (%),95.204,%,2025-10-15,T. Novak,Night,HPLC-11,Pass
+833,ERN-500-2510-0167,Related Substances - Total Impurities (%),0.268,%,2025-10-15,D. Ibrahim,Swing,HPLC-04,Pass
+834,ERN-500-2510-0167,Water Content (%),2.994,%,2025-10-15,J. Alvarez,Night,KF-Titrator-01,Pass
+835,ERN-500-2510-0167,Content Uniformity (AV),5.033,AV,2025-10-15,T. Novak,Night,HPLC-04,Pass
+836,ERN-500-2412-0168,Assay (% of label claim),98.55,%,2024-12-22,K. Fischer,Day,KF-Titrator-01,Pass
+837,ERN-500-2412-0168,Dissolution Q30 (%),88.928,%,2024-12-22,J. Alvarez,Day,KF-Titrator-01,Pass
+838,ERN-500-2412-0168,Related Substances - Total Impurities (%),0.09,%,2024-12-22,K. Fischer,Night,HPLC-07,Pass
+839,ERN-500-2412-0168,Water Content (%),2.093,%,2024-12-22,J. Alvarez,Night,HPLC-04,Pass
+840,ERN-500-2412-0168,Content Uniformity (AV),2.972,AV,2024-12-22,K. Fischer,Day,HPLC-04,Pass
+841,ERN-500-2401-0169,Assay (% of label claim),100.622,%,2024-01-16,R. Okafor,Swing,HPLC-11,Pass
+842,ERN-500-2401-0169,Dissolution Q30 (%),82.864,%,2024-01-16,D. Ibrahim,Day,HPLC-04,Pass
+843,ERN-500-2401-0169,Related Substances - Total Impurities (%),-0.061,%,2024-01-16,J. Alvarez,Day,Dissolution-Bath-3,Pass
+844,ERN-500-2401-0169,Water Content (%),1.31,%,2024-01-16,S. Patel,Swing,KF-Titrator-01,Pass
+845,ERN-500-2401-0169,Content Uniformity (AV),1.287,AV,2024-01-16,M. Chen,Night,HPLC-04,Pass
+846,ERN-500-2409-0170,Assay (% of label claim),99.909,%,2024-09-19,K. Fischer,Day,UV-02,Pass
+847,ERN-500-2409-0170,Dissolution Q30 (%),90.975,%,2024-09-19,J. Alvarez,Day,KF-Titrator-01,Pass
+848,ERN-500-2409-0170,Related Substances - Total Impurities (%),0.473,%,2024-09-19,K. Fischer,Day,HPLC-11,Pass
+849,ERN-500-2409-0170,Water Content (%),2.095,%,2024-09-19,S. Patel,Day,HPLC-07,Pass
+850,ERN-500-2409-0170,Content Uniformity (AV),3.241,AV,2024-09-19,K. Fischer,Night,UV-02,Pass
+851,ERN-500-2402-0171,Assay (% of label claim),102.923,%,2024-03-02,R. Okafor,Day,HPLC-04,Pass
+852,ERN-500-2402-0171,Dissolution Q30 (%),91.747,%,2024-03-02,J. Alvarez,Swing,HPLC-07,Pass
+853,ERN-500-2402-0171,Related Substances - Total Impurities (%),0.01,%,2024-03-02,J. Alvarez,Day,HPLC-11,Pass
+854,ERN-500-2402-0171,Water Content (%),3.009,%,2024-03-02,T. Novak,Day,HPLC-04,Pass
+855,ERN-500-2402-0171,Content Uniformity (AV),6.409,AV,2024-03-02,R. Okafor,Swing,HPLC-04,Pass
+856,ERN-500-2501-0172,Assay (% of label claim),98.52,%,2025-01-30,S. Patel,Day,HPLC-07,Pass
+857,ERN-500-2501-0172,Dissolution Q30 (%),88.929,%,2025-01-30,S. Patel,Night,Dissolution-Bath-3,Pass
+858,ERN-500-2501-0172,Related Substances - Total Impurities (%),0.027,%,2025-01-30,K. Fischer,Day,Dissolution-Bath-3,Pass
+859,ERN-500-2501-0172,Water Content (%),1.645,%,2025-01-30,J. Alvarez,Night,HPLC-11,Pass
+860,ERN-500-2501-0172,Content Uniformity (AV),12.152,AV,2025-01-30,J. Alvarez,Day,KF-Titrator-01,Pass
+861,ERN-500-2409-0173,Assay (% of label claim),102.134,%,2024-09-09,R. Okafor,Swing,HPLC-07,Pass
+862,ERN-500-2409-0173,Dissolution Q30 (%),100.839,%,2024-09-09,J. Alvarez,Day,Dissolution-Bath-3,Pass
+863,ERN-500-2409-0173,Related Substances - Total Impurities (%),0.043,%,2024-09-09,K. Fischer,Night,Dissolution-Bath-3,Pass
+864,ERN-500-2409-0173,Water Content (%),1.247,%,2024-09-09,K. Fischer,Day,KF-Titrator-01,Pass
+865,ERN-500-2409-0173,Content Uniformity (AV),2.798,AV,2024-09-09,K. Fischer,Day,KF-Titrator-01,Pass
+866,ERN-500-2504-0174,Assay (% of label claim),100.446,%,2025-04-16,J. Alvarez,Day,KF-Titrator-01,Pass
+867,ERN-500-2504-0174,Dissolution Q30 (%),80.91,%,2025-04-16,K. Fischer,Swing,UV-02,Pass
+868,ERN-500-2504-0174,Related Substances - Total Impurities (%),0.163,%,2025-04-16,J. Alvarez,Swing,HPLC-11,Pass
+869,ERN-500-2504-0174,Water Content (%),1.858,%,2025-04-16,K. Fischer,Day,UV-02,Pass
+870,ERN-500-2504-0174,Content Uniformity (AV),1.757,AV,2025-04-16,D. Ibrahim,Day,HPLC-04,Pass
+871,ERN-500-2410-0175,Assay (% of label claim),100.511,%,2024-10-06,D. Ibrahim,Swing,Dissolution-Bath-3,Pass
+872,ERN-500-2410-0175,Dissolution Q30 (%),100.162,%,2024-10-06,T. Novak,Day,HPLC-07,Pass
+873,ERN-500-2410-0175,Related Substances - Total Impurities (%),0.331,%,2024-10-06,K. Fischer,Night,HPLC-11,Pass
+874,ERN-500-2410-0175,Water Content (%),2.652,%,2024-10-06,M. Chen,Day,HPLC-07,Pass
+875,ERN-500-2410-0175,Content Uniformity (AV),4.686,AV,2024-10-06,R. Okafor,Night,HPLC-04,Pass
+876,ERN-500-2409-0176,Assay (% of label claim),99.486,%,2024-10-01,J. Alvarez,Day,HPLC-11,Pass
+877,ERN-500-2409-0176,Dissolution Q30 (%),93.332,%,2024-10-01,R. Okafor,Swing,KF-Titrator-01,Pass
+878,ERN-500-2409-0176,Related Substances - Total Impurities (%),0.098,%,2024-10-01,M. Chen,Swing,Dissolution-Bath-3,Pass
+879,ERN-500-2409-0176,Water Content (%),1.432,%,2024-10-01,J. Alvarez,Day,HPLC-07,Pass
+880,ERN-500-2409-0176,Content Uniformity (AV),7.49,AV,2024-10-01,S. Patel,Day,HPLC-07,Pass
+881,ERN-500-2507-0177,Assay (% of label claim),100.272,%,2025-07-16,M. Chen,Night,UV-02,Pass
+882,ERN-500-2507-0177,Dissolution Q30 (%),83.799,%,2025-07-16,J. Alvarez,Day,HPLC-04,Pass
+883,ERN-500-2507-0177,Related Substances - Total Impurities (%),0.196,%,2025-07-16,J. Alvarez,Swing,UV-02,Pass
+884,ERN-500-2507-0177,Water Content (%),1.562,%,2025-07-16,J. Alvarez,Swing,KF-Titrator-01,Pass
+885,ERN-500-2507-0177,Content Uniformity (AV),5.603,AV,2025-07-16,S. Patel,Day,HPLC-07,Pass
+886,ERN-500-2402-0178,Assay (% of label claim),100.487,%,2024-02-09,J. Alvarez,Day,HPLC-04,Pass
+887,ERN-500-2402-0178,Dissolution Q30 (%),89.086,%,2024-02-09,R. Okafor,Night,HPLC-04,Pass
+888,ERN-500-2402-0178,Related Substances - Total Impurities (%),0.181,%,2024-02-09,M. Chen,Swing,Dissolution-Bath-3,Pass
+889,ERN-500-2402-0178,Water Content (%),-0.299,%,2024-02-09,D. Ibrahim,Swing,HPLC-04,Pass
+890,ERN-500-2402-0178,Content Uniformity (AV),-6.616,AV,2024-02-09,S. Patel,Night,HPLC-04,Pass
+891,ERN-500-2412-0179,Assay (% of label claim),98.477,%,2025-01-02,J. Alvarez,Day,UV-02,Pass
+892,ERN-500-2412-0179,Dissolution Q30 (%),91.759,%,2025-01-02,S. Patel,Night,HPLC-07,Pass
+893,ERN-500-2412-0179,Related Substances - Total Impurities (%),0.047,%,2025-01-02,M. Chen,Swing,Dissolution-Bath-3,Pass
+894,ERN-500-2412-0179,Water Content (%),2.178,%,2025-01-02,J. Alvarez,Day,Dissolution-Bath-3,Pass
+895,ERN-500-2412-0179,Content Uniformity (AV),15.656,AV,2025-01-02,M. Chen,Night,HPLC-04,OOS
+896,ERN-500-2412-0180,Assay (% of label claim),104.482,%,2024-12-14,K. Fischer,Night,HPLC-04,Pass
+897,ERN-500-2412-0180,Dissolution Q30 (%),92.493,%,2024-12-14,T. Novak,Day,Dissolution-Bath-3,Pass
+898,ERN-500-2412-0180,Related Substances - Total Impurities (%),0.293,%,2024-12-14,S. Patel,Swing,Dissolution-Bath-3,Pass
+899,ERN-500-2412-0180,Water Content (%),2.64,%,2024-12-14,K. Fischer,Day,Dissolution-Bath-3,Pass
+900,ERN-500-2412-0180,Content Uniformity (AV),-0.391,AV,2024-12-14,T. Novak,Swing,Dissolution-Bath-3,Pass
+901,ERN-500-2505-0181,Assay (% of label claim),100.844,%,2025-05-02,M. Chen,Day,HPLC-11,Pass
+902,ERN-500-2505-0181,Dissolution Q30 (%),89.217,%,2025-05-02,T. Novak,Day,HPLC-04,Pass
+903,ERN-500-2505-0181,Related Substances - Total Impurities (%),0.142,%,2025-05-02,S. Patel,Day,HPLC-04,Pass
+904,ERN-500-2505-0181,Water Content (%),1.899,%,2025-05-02,T. Novak,Night,UV-02,Pass
+905,ERN-500-2505-0181,Content Uniformity (AV),5.966,AV,2025-05-02,M. Chen,Swing,HPLC-07,Pass
+906,ERN-500-2407-0182,Assay (% of label claim),107.713,%,2024-07-27,D. Ibrahim,Swing,HPLC-04,OOS
+907,ERN-500-2407-0182,Dissolution Q30 (%),100.878,%,2024-07-27,R. Okafor,Swing,Dissolution-Bath-3,Pass
+908,ERN-500-2407-0182,Related Substances - Total Impurities (%),-0.041,%,2024-07-27,M. Chen,Day,HPLC-07,Pass
+909,ERN-500-2407-0182,Water Content (%),1.499,%,2024-07-27,R. Okafor,Night,UV-02,Pass
+910,ERN-500-2407-0182,Content Uniformity (AV),0.365,AV,2024-07-27,R. Okafor,Day,KF-Titrator-01,Pass
+911,ERN-500-2401-0183,Assay (% of label claim),99.488,%,2024-01-07,S. Patel,Day,HPLC-07,Pass
+912,ERN-500-2401-0183,Dissolution Q30 (%),69.407,%,2024-01-07,R. Okafor,Day,HPLC-07,OOS
+913,ERN-500-2401-0183,Related Substances - Total Impurities (%),0.231,%,2024-01-07,S. Patel,Swing,HPLC-11,Pass
+914,ERN-500-2401-0183,Water Content (%),2.807,%,2024-01-07,K. Fischer,Day,HPLC-07,Pass
+915,ERN-500-2401-0183,Content Uniformity (AV),14.395,AV,2024-01-07,K. Fischer,Swing,HPLC-04,Pass
+916,ERN-500-2404-0184,Assay (% of label claim),101.94,%,2024-04-02,R. Okafor,Day,HPLC-11,Pass
+917,ERN-500-2404-0184,Dissolution Q30 (%),82.041,%,2024-04-02,M. Chen,Day,UV-02,Pass
+918,ERN-500-2404-0184,Related Substances - Total Impurities (%),0.076,%,2024-04-02,K. Fischer,Night,Dissolution-Bath-3,Pass
+919,ERN-500-2404-0184,Water Content (%),2.413,%,2024-04-02,J. Alvarez,Swing,HPLC-07,Pass
+920,ERN-500-2404-0184,Content Uniformity (AV),-1.705,AV,2024-04-02,R. Okafor,Night,KF-Titrator-01,Pass
+921,ERN-500-2508-0185,Assay (% of label claim),99.498,%,2025-08-25,T. Novak,Swing,KF-Titrator-01,Pass
+922,ERN-500-2508-0185,Dissolution Q30 (%),98.678,%,2025-08-25,K. Fischer,Day,UV-02,Pass
+923,ERN-500-2508-0185,Related Substances - Total Impurities (%),-0.087,%,2025-08-25,T. Novak,Swing,Dissolution-Bath-3,Pass
+924,ERN-500-2508-0185,Water Content (%),1.927,%,2025-08-25,K. Fischer,Swing,HPLC-07,Pass
+925,ERN-500-2508-0185,Content Uniformity (AV),2.742,AV,2025-08-25,D. Ibrahim,Day,UV-02,Pass
+926,ERN-500-2401-0186,Assay (% of label claim),100.296,%,2024-01-28,M. Chen,Swing,HPLC-11,Pass
+927,ERN-500-2401-0186,Dissolution Q30 (%),81.527,%,2024-01-28,M. Chen,Swing,HPLC-04,Pass
+928,ERN-500-2401-0186,Related Substances - Total Impurities (%),0.484,%,2024-01-28,S. Patel,Swing,HPLC-07,Pass
+929,ERN-500-2401-0186,Water Content (%),3.9,%,2024-01-28,K. Fischer,Night,HPLC-11,Pass
+930,ERN-500-2401-0186,Content Uniformity (AV),0.334,AV,2024-01-28,M. Chen,Night,HPLC-07,Pass
+931,ERN-500-2510-0187,Assay (% of label claim),100.059,%,2025-10-09,T. Novak,Day,UV-02,Pass
+932,ERN-500-2510-0187,Dissolution Q30 (%),89.133,%,2025-10-09,S. Patel,Swing,KF-Titrator-01,Pass
+933,ERN-500-2510-0187,Related Substances - Total Impurities (%),0.04,%,2025-10-09,R. Okafor,Night,UV-02,Pass
+934,ERN-500-2510-0187,Water Content (%),2.405,%,2025-10-09,K. Fischer,Night,HPLC-07,Pass
+935,ERN-500-2510-0187,Content Uniformity (AV),-1.483,AV,2025-10-09,J. Alvarez,Night,HPLC-11,Pass
+936,ERN-500-2508-0188,Assay (% of label claim),98.187,%,2025-08-27,D. Ibrahim,Day,HPLC-11,Pass
+937,ERN-500-2508-0188,Dissolution Q30 (%),87.089,%,2025-08-27,R. Okafor,Night,HPLC-11,Pass
+938,ERN-500-2508-0188,Related Substances - Total Impurities (%),0.274,%,2025-08-27,K. Fischer,Night,HPLC-04,Pass
+939,ERN-500-2508-0188,Water Content (%),2.305,%,2025-08-27,J. Alvarez,Night,KF-Titrator-01,Pass
+940,ERN-500-2508-0188,Content Uniformity (AV),3.132,AV,2025-08-27,D. Ibrahim,Day,HPLC-07,Pass
+941,ERN-500-2509-0189,Assay (% of label claim),99.842,%,2025-09-03,J. Alvarez,Day,HPLC-07,Pass
+942,ERN-500-2509-0189,Dissolution Q30 (%),97.977,%,2025-09-03,M. Chen,Day,HPLC-04,Pass
+943,ERN-500-2509-0189,Related Substances - Total Impurities (%),0.024,%,2025-09-03,J. Alvarez,Day,HPLC-07,Pass
+944,ERN-500-2509-0189,Water Content (%),2.581,%,2025-09-03,R. Okafor,Swing,Dissolution-Bath-3,Pass
+945,ERN-500-2509-0189,Content Uniformity (AV),5.586,AV,2025-09-03,R. Okafor,Swing,HPLC-04,Pass
+946,ERN-500-2505-0190,Assay (% of label claim),99.938,%,2025-05-22,J. Alvarez,Night,HPLC-11,Pass
+947,ERN-500-2505-0190,Dissolution Q30 (%),93.513,%,2025-05-22,D. Ibrahim,Night,HPLC-11,Pass
+948,ERN-500-2505-0190,Related Substances - Total Impurities (%),0.071,%,2025-05-22,T. Novak,Day,HPLC-07,Pass
+949,ERN-500-2505-0190,Water Content (%),2.023,%,2025-05-22,S. Patel,Swing,HPLC-11,Pass
+950,ERN-500-2505-0190,Content Uniformity (AV),4.887,AV,2025-05-22,D. Ibrahim,Swing,HPLC-04,Pass
+951,ERN-500-2509-0191,Assay (% of label claim),103.1,%,2025-09-26,M. Chen,Night,UV-02,Pass
+952,ERN-500-2509-0191,Dissolution Q30 (%),92.781,%,2025-09-26,J. Alvarez,Night,UV-02,Pass
+953,ERN-500-2509-0191,Related Substances - Total Impurities (%),0.064,%,2025-09-26,M. Chen,Day,HPLC-07,Pass
+954,ERN-500-2509-0191,Water Content (%),3.904,%,2025-09-26,D. Ibrahim,Night,UV-02,Pass
+955,ERN-500-2509-0191,Content Uniformity (AV),3.783,AV,2025-09-26,T. Novak,Swing,Dissolution-Bath-3,Pass
+956,ERN-500-2506-0192,Assay (% of label claim),101.834,%,2025-06-10,K. Fischer,Day,HPLC-07,Pass
+957,ERN-500-2506-0192,Dissolution Q30 (%),93.602,%,2025-06-10,S. Patel,Night,HPLC-07,Pass
+958,ERN-500-2506-0192,Related Substances - Total Impurities (%),0.484,%,2025-06-10,R. Okafor,Night,HPLC-11,Pass
+959,ERN-500-2506-0192,Water Content (%),3.081,%,2025-06-10,J. Alvarez,Day,UV-02,Pass
+960,ERN-500-2506-0192,Content Uniformity (AV),6.842,AV,2025-06-10,K. Fischer,Swing,UV-02,Pass
+961,ERN-500-2506-0193,Assay (% of label claim),97.541,%,2025-06-04,R. Okafor,Day,KF-Titrator-01,Pass
+962,ERN-500-2506-0193,Dissolution Q30 (%),90.996,%,2025-06-04,M. Chen,Day,HPLC-07,Pass
+963,ERN-500-2506-0193,Related Substances - Total Impurities (%),0.453,%,2025-06-04,S. Patel,Day,HPLC-07,Pass
+964,ERN-500-2506-0193,Water Content (%),2.598,%,2025-06-04,D. Ibrahim,Night,Dissolution-Bath-3,Pass
+965,ERN-500-2506-0193,Content Uniformity (AV),0.021,AV,2025-06-04,T. Novak,Swing,HPLC-04,Pass
+966,ERN-500-2505-0194,Assay (% of label claim),102.109,%,2025-06-01,T. Novak,Swing,UV-02,Pass
+967,ERN-500-2505-0194,Dissolution Q30 (%),91.898,%,2025-06-01,M. Chen,Swing,HPLC-11,Pass
+968,ERN-500-2505-0194,Related Substances - Total Impurities (%),0.332,%,2025-06-01,K. Fischer,Swing,Dissolution-Bath-3,Pass
+969,ERN-500-2505-0194,Water Content (%),0.485,%,2025-06-01,R. Okafor,Night,HPLC-04,Pass
+970,ERN-500-2505-0194,Content Uniformity (AV),6.892,AV,2025-06-01,S. Patel,Day,Dissolution-Bath-3,Pass
+971,ERN-500-2508-0195,Assay (% of label claim),102.637,%,2025-08-24,T. Novak,Day,HPLC-04,Pass
+972,ERN-500-2508-0195,Dissolution Q30 (%),84.172,%,2025-08-24,T. Novak,Day,HPLC-11,Pass
+973,ERN-500-2508-0195,Related Substances - Total Impurities (%),0.258,%,2025-08-24,R. Okafor,Swing,KF-Titrator-01,Pass
+974,ERN-500-2508-0195,Water Content (%),1.177,%,2025-08-24,S. Patel,Night,HPLC-04,Pass
+975,ERN-500-2508-0195,Content Uniformity (AV),3.914,AV,2025-08-24,D. Ibrahim,Night,HPLC-07,Pass
+976,ERN-500-2402-0196,Assay (% of label claim),99.556,%,2024-02-06,J. Alvarez,Swing,HPLC-07,Pass
+977,ERN-500-2402-0196,Dissolution Q30 (%),88.589,%,2024-02-06,M. Chen,Day,UV-02,Pass
+978,ERN-500-2402-0196,Related Substances - Total Impurities (%),0.074,%,2024-02-06,S. Patel,Night,HPLC-11,Pass
+979,ERN-500-2402-0196,Water Content (%),2.6,%,2024-02-06,T. Novak,Day,HPLC-04,Pass
+980,ERN-500-2402-0196,Content Uniformity (AV),1.307,AV,2024-02-06,K. Fischer,Night,UV-02,Pass
+981,ERN-500-2510-0197,Assay (% of label claim),101.269,%,2025-10-18,D. Ibrahim,Swing,UV-02,Pass
+982,ERN-500-2510-0197,Dissolution Q30 (%),99.034,%,2025-10-18,K. Fischer,Day,Dissolution-Bath-3,Pass
+983,ERN-500-2510-0197,Related Substances - Total Impurities (%),0.206,%,2025-10-18,D. Ibrahim,Night,HPLC-11,Pass
+984,ERN-500-2510-0197,Water Content (%),1.914,%,2025-10-18,J. Alvarez,Swing,KF-Titrator-01,Pass
+985,ERN-500-2510-0197,Content Uniformity (AV),6.179,AV,2025-10-18,D. Ibrahim,Night,HPLC-11,Pass
+986,ERN-500-2501-0198,Assay (% of label claim),99.941,%,2025-01-23,K. Fischer,Swing,Dissolution-Bath-3,Pass
+987,ERN-500-2501-0198,Dissolution Q30 (%),85.203,%,2025-01-23,D. Ibrahim,Day,KF-Titrator-01,Pass
+988,ERN-500-2501-0198,Related Substances - Total Impurities (%),0.262,%,2025-01-23,D. Ibrahim,Swing,KF-Titrator-01,Pass
+989,ERN-500-2501-0198,Water Content (%),4.364,%,2025-01-23,M. Chen,Swing,HPLC-11,OOS
+990,ERN-500-2501-0198,Content Uniformity (AV),14.349,AV,2025-01-23,T. Novak,Swing,UV-02,Pass
+991,ERN-500-2402-0199,Assay (% of label claim),101.42,%,2024-02-25,M. Chen,Day,Dissolution-Bath-3,Pass
+992,ERN-500-2402-0199,Dissolution Q30 (%),86.23,%,2024-02-25,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+993,ERN-500-2402-0199,Related Substances - Total Impurities (%),-0.043,%,2024-02-25,K. Fischer,Day,HPLC-07,Pass
+994,ERN-500-2402-0199,Water Content (%),1.979,%,2024-02-25,S. Patel,Swing,HPLC-11,Pass
+995,ERN-500-2402-0199,Content Uniformity (AV),9.623,AV,2024-02-25,T. Novak,Night,HPLC-11,Pass
+996,ERN-500-2506-0200,Assay (% of label claim),101.889,%,2025-06-29,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+997,ERN-500-2506-0200,Dissolution Q30 (%),85.226,%,2025-06-29,T. Novak,Night,HPLC-04,Pass
+998,ERN-500-2506-0200,Related Substances - Total Impurities (%),0.337,%,2025-06-29,R. Okafor,Swing,UV-02,Pass
+999,ERN-500-2506-0200,Water Content (%),0.373,%,2025-06-29,D. Ibrahim,Day,Dissolution-Bath-3,Pass
+1000,ERN-500-2506-0200,Content Uniformity (AV),4.007,AV,2025-06-29,R. Okafor,Day,HPLC-04,Pass
