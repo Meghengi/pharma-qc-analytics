@@ -1,0 +1,60 @@
+version: 2
+
+models:
+  - name: fct_qc_results
+    description: >
+      One row per QC test result, the atomic grain for this mart, joined
+      out to the batch it was run on and the spec limits it was judged
+      against.
+    columns:
+      - name: result_id
+        data_tests:
+          - unique
+          - not_null
+      - name: batch_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('dim_batches')
+              field: batch_id
+      - name: status
+        data_tests:
+          - accepted_values:
+              values: ['Pass', 'OOS']
+
+  - name: dim_batches
+    description: >
+      One row per manufactured batch with a rolled-up test count, OOS
+      count, deviation count, and a derived release disposition.
+    columns:
+      - name: batch_id
+        data_tests:
+          - unique
+          - not_null
+      - name: release_disposition
+        data_tests:
+          - accepted_values:
+              values: ['Released', 'Released with deviation', 'Rejected']
+
+  - name: oos_rate_by_product_test
+    description: >
+      Out-of-specification rate per product/test combination — the metric
+      QC and manufacturing watch to spot a drifting process or a test
+      method that's running close to its limits.
+    columns:
+      - name: product_code
+        data_tests:
+          - not_null
+      - name: oos_rate_pct
+        data_tests:
+          - not_null
+
+  - name: deviation_cycle_time
+    description: >
+      Monthly deviation volume and time-to-close by product and category —
+      a standard quality-systems KPI (deviations are typically expected to
+      close within 30 days; `overdue_30day_count` flags the ones that didn't).
+    columns:
+      - name: opened_month
+        data_tests:
+          - not_null
