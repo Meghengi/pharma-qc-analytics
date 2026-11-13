@@ -1,0 +1,11 @@
+# Local dev profile for this project. DuckDB is file-based and needs no
+# server, no credentials, and no network access. dbt picks this file up
+# automatically when you run it from the project root, so `dbt build`
+# works straight after cloning.
+pharma_qc_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: 'pharma_qc_analytics.duckdb'
+      threads: 4
